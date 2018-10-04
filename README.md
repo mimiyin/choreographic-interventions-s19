@@ -47,35 +47,30 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 - Select chapters from [Dynamic Alignment Through Imagery](http://www.amazon.com/Dynamic-Alignment-Through-Imagery-Edition/dp/0736067892) | [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [NYU Library](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003964968&context=L&vid=NYU&search_scope=all&isFrbr=true&tab=all&lang=en_US)
 - [Forsythe Technique Videos on Youtube](https://www.youtube.com/user/GrandpaSafari/videos)
 
-
-### Dance students checking stuff out of ITP ER:
-   - Check it out under my name
-   - Bring your NYU ID
-   - netid
-   - Nxxxx id number
-
-   ***
-   ***
+***
+***
 
 ## Week 1: Introduction
 
 ### Questions
    * Why are we here?
+   * What is computational thinking? What is choreographic thinking?
+   * What is anintervention?
    * What is interaction?
-      * Do you need sensors to be interactive?
-   * What is a choreographic intervention?
    * What are the parameters of choreography?
    * How is code an expressive medium?
 
 ### In-class
-   * Analyze how we all entered the studio.
-   * Introduce ourselves: What's your favorite resting position?
-   * Introduction to computational thinking through dynamic drawing
-   * Make a duet between a dancer and a drawer
+   * Drawing with the body
+   * Hello Kinect Skeleton
    * Examples:
       * [Drawing Lines](http://alpha.editor.p5js.org/move.mimi/sketches/ByPtNLI4z) | [Fullscreen](http://alpha.editor.p5js.org/full/ByPtNLI4z) | 1-Mode-At-A-Time: [0](http://alpha.editor.p5js.org/move.mimi/sketches/SJwTOF8Ez) | [1](http://alpha.editor.p5js.org/move.mimi/sketches/HyNmKKL4f) | [2](http://alpha.editor.p5js.org/move.mimi/sketches/SkEk9KUNM) | [3](http://alpha.editor.p5js.org/move.mimi/sketches/ByPfqt84f)
       * [Drawing a Trail](http://alpha.editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Fullscreen](http://alpha.editor.p5js.org/full/H1flrLLVG)
-      * [Zeno's Paradox](http://alpha.editor.p5js.org/move.mimi/sketches/H1NWIIL4z)
+      * [Kinect Skeleton](http://alpha.editor.p5js.org/move.mimi/sketches/rJPcXh84z)
+      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/ByQxNn8NG) | [Fullscreen](http://alpha.editor.p5js.org/full/ByQxNn8NG)
+      * Kinect Skeleton - Control Noise: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/BJtH8dsIz) | [Fullscreen](http://alpha.editor.p5js.org/full/BJtH8dsIz)
+      * Kinect Skeleton - Draw Lines - Multiple Bodies: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/BJwpqUAEz) | [Fullscreen](http://alpha.editor.p5js.org/full/BJwpqUAEz)
+
 
 ### Assignment
    * ITPers: Watch [Forsythe Technique Videos](https://www.youtube.com/user/GrandpaSafari/videos): They range from 10s to 1 minute. Very short!
@@ -84,22 +79,22 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Avoidance](https://www.youtube.com/watch?v=cqGyFiEXXIQ)
       * [Line](https://www.youtube.com/watch?v=aOd0PtgS8KU)
    * Everyone: Read chapter 2 of [Viewpoints](https://stilluntitledproject.files.wordpress.com/2014/11/anne-bogart-and-tina-landau-the-viewpoints-book.pdf).
-   * Everyone: Review [Chapter 0](https://docs.google.com/document/d/1NPHHaCppnEJoR90W6ZOtrV3JDu1qq5VPCieSIwfQ0Jc/edit?usp=sharing) and complete sections 1.0 - 1.2 of [Chapter 1](https://docs.google.com/document/d/1SUp-7bKs1Cvez7pBSe3I0tTccWTw2q0TqgK7nyGI8cM/edit?usp=sharing) of the Workbook
+   * Everyone: Review [Chapter 0](https://docs.google.com/document/d/1NPHHaCppnEJoR90W6ZOtrV3JDu1qq5VPCieSIwfQ0Jc/edit?usp=sharing) and complete [Chapter 1](https://docs.google.com/document/d/1SUp-7bKs1Cvez7pBSe3I0tTccWTw2q0TqgK7nyGI8cM/edit?usp=sharing) of the Workbook
 
 ***
 
 ## Week 2: Interacting with Pathways
 
 ### Questions
+   * What's the difference between a pathway and a line?
+   * What are all the different kinds of pathways?
    * What are all the ways to interact with a pathway?
-   * How do you choreograph code?
-   * The dramaturgy of lines and random().
+   * How do you choreograph pathways in code?
 
 ### In-class
+   * Deconstructing pathways through computation: linear, random(), noise()y and circular motion
    * Interacting with a static pathway (rope)
-   * Interacting with a moving pathway (live drawing)
-   * Deconstructing linear and random() motion
-   * Choreographing linear and random pathways
+   * Interacting with moving pathways
    * Examples
       * [Bobby McFerrin](https://www.youtube.com/watch?v=DoNIOqUz9NM)
       * [Linear Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/rJWBguUNf)
@@ -108,24 +103,6 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Random Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/HkL0VOUVf)
       * [Graphing Random](http://alpha.editor.p5js.org/move.mimi/sketches/SkwF9OLEM)
       * Random Pathway with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://alpha.editor.p5js.org/full/ByBuJtIEz)
-
-### Assignment
-   * Complete sections 1.3-1.4 of Chapter 1 of the Workbook.
-   * Create a 1 minute duet using a live drawer and a dancer.
-      * You can use the drawing lines, linear pathway with controls and random pathway with controls examples or create your own mash-up of those 3. Duet must be repeatable.
-
-***
-
-## Week 3: Dynamic Pathways
-
-### Questions
-   * How do you choreograph code? cont'd
-   * The dramaturgy of noise() and circles.
-
-### In-class
-   * Deconstructing noise() and circular motion
-   * Choreographing noisy and circular pathways
-   * Examples
       * [Noisy Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/ryi5E984G)
       * [Gaga](https://www.youtube.com/watch?v=OGPG1QL1vJc)
       * [Graphing Noise](http://alpha.editor.p5js.org/move.mimi/sketches/H16ZQ98Ez)
@@ -143,49 +120,57 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Timing things with frameCount and %](http://alpha.editor.p5js.org/move.mimi/sketches/rJAA5KkBG)
       * [Pathways in Visual Art](https://drive.google.com/drive/folders/18-ahAJQ1ogq1wANzjwBVjXzJNHC7CCrG)
 
-### Assignment
-   * Create a 1 minute duet between a programmed pathway and a dancer.
-      * Pick from pathways we've discussed: linear, random, noisy, circular.
-      * You can use more than 1 kind of pathway.
-      * If you use a new kind of pathway (e.g. fractals), include an analysis of that pathway comparable to what we have done in class so that you are on comparable conceptual footing.
+### Assignment: Study No. 1 Intersections
+   * Choreograph a duet with a computed pathway.
+   * Choreograph a pathway in code.
 
 ***
-## Week 4 Show 2 Duets, Hello Kinect
+
+## Week 3: Critique Intersections
+
+### ITP Technical Lab
+   * Hello again, Kinect Skeleton
+   * Vector Math
+   * Drawing in 3D
+
+### Assignment
+   * Read Chapter 7 of Dynamic Alignment: [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [PDF](https://drive.google.com/file/d/0B_lnhZP0dCt8LVZMRXlqNFFQaFk/view?usp=sharing)
+   * Complete [Chapter 2 of the Workbook](https://docs.google.com/document/d/19AHtqOiLSZQyVnWc6UNZzi75G_JFZLXLwaGtXkjDmRI/edit?usp=sharing)
+   * Bring a piece of clothing that changes the shape of your body to class next week.
+
+***
+
+## Week 4 Body: Form and Substance
 
 ### In-class
   * Introduction to Kinect v.2 camera
   * Kinectron server + p5.js
   * Drawing with the joints of the body
   * Examples
-     * [Kinect Skeleton](http://alpha.editor.p5js.org/move.mimi/sketches/rJPcXh84z)
-     * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/ByQxNn8NG) | [Fullscreen](http://alpha.editor.p5js.org/full/ByQxNn8NG)
-     * Kinect Skeleton - Control Noise: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/BJtH8dsIz) | [Fullscreen](http://alpha.editor.p5js.org/full/BJtH8dsIz)
-     * Kinect Skeleton - Draw Lines - Multiple Bodies: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/BJwpqUAEz) | [Fullscreen](http://alpha.editor.p5js.org/full/BJwpqUAEz)
 
-### Assignment
-   * Play together to draw with the body. [Instructions](https://github.com/mimiyin/choreographic-interventions-s18/wiki/Drawing-With-The-Body)
-   * Watch + Read:
-      * [Ghostcatching by Bill T. Jones](https://www.youtube.com/watch?v=aL5w_b-F8ig)
-      * [Biped by Merce Cunningham](https://www.youtube.com/watch?v=a-QMlTsNtxM)
-      * [Public Collection by Alexandra Pirici & Manuel Pelmus](https://www.youtube.com/watch?v=UoHtaPRFoPo)
-      * [Pirici @New Museum](https://www.nytimes.com/2018/02/09/arts/dance/co-natural-alexandra-pirici-new-museum.html)
-   * Read Chapter 7 of Dynamic Alignment: [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [PDF](https://drive.google.com/file/d/0B_lnhZP0dCt8LVZMRXlqNFFQaFk/view?usp=sharing)
-   * Complete Sections 2.0-2.2 of [Chapter 2 of the Workbook](https://docs.google.com/document/d/19AHtqOiLSZQyVnWc6UNZzi75G_JFZLXLwaGtXkjDmRI/edit?usp=sharing)
 ***
 
 ## Week 5 Form + Substance: Re-architecture
 
 ### Questions
-   * What are all the ways the body can fold?
-   * What are all the ways the body can spiral?
-   * What are all the ways the body is (as)symmetrical.
-   * How would you walk if your head was facing back, in between your knees?
+   * Form
+      * What are all the ways the body can fold?
+      * What are all the ways the body can spiral?
+      * What are all the ways the body is (as)symmetrical.
+      * How would you walk if your head was facing back, in between your knees?
+   * Substance
+      * What is a body made of?
+      * How can changing the way your body is represented change how you move?
 
 ### In-class
+   * Clothing swap improv.
    * Re-designing the skeleton in 2D and 3D
-   * Review Kinect and Kinectron
-   * Vector Math
-   * Resources
+      * Play with Kinect funhouse mirrors
+     * The Gumby Effect: Bending body contours.
+     * Prickly Pears: Visualizing the sensation of pins and needles.
+     * Rei Kawakubo: Bulging and pinching your insides.
+
+   * Resources: Form
       * [Bodies We Collected](https://drive.google.com/drive/folders/1W74yWhmgR1Cly2MFlATCqhzqtrmItiOw?usp=sharing)
       * [Merce Cunningham and Life Forms](https://www.youtube.com/watch?v=ROmTHBg8Nw0)
       * [Phantom Limb Effect](https://en.wikipedia.org/wiki/Phantom_limb)
@@ -204,26 +189,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Vectors in p5](http://p5js.org/reference/#/p5.Vector)
          * [Vertex in p5](http://p5js.org/reference/#/p5/vertex) | [curveVertex in p5](http://p5js.org/reference/#/p5/curveVertex)
          * Nature of Code: Introduction to Vectors: [Textbook](http://natureofcode.com/book/chapter-1-vectors/) | [Video](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc)
-
-### Assignment
-   * Bring a piece of clothing that changes the shape of your body to class next week.
-   * Complete Sections 2.3-2.4 of Chapter 2 of the Workbook
-
-***
-
-## Week 6 Form + Substance: Distortion
-
-### Questions
-   * What is a body made of?
-   * How can changing the way your body is represented change how you move?
-
-### In-class
-   * Show and tell clothes.
-   * Play with Kinect funhouse mirrors
-     * The Gumby Effect: Bending body contours.
-     * Prickly Pears: Visualizing the sensation of pins and needles.
-     * Rei Kawakubo: Bulging and pinching your insides.
-   * Resources
+   * Resources: Structure
       * [Processing Java and p5.js](https://github.com/processing/p5.js/wiki/Processing-transition)
       * [Processing Java and p5.js Cheatsheet](https://docs.google.com/document/d/126TTVuJ0fl2fv1Rcp7eAE7vR4rJ5gMGnBKaeZhSjPbs/edit?usp=sharing)
       * [Kinect PV2 Library for Processing Java on PC](https://github.com/ThomasLengeling/KinectPV2)
@@ -236,14 +202,14 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
          * [Drunk Guy In Convenience Store](https://www.youtube.com/watch?v=8M_oBYNb6UU)
 
-### Assignment
+### Assignment: Study No. 2 Mirror
    * Create a mirror that distorts or re-architects the body to move in new and unexpected ways.
    * Be clear about how you think the mirror is going to make people move.
    * You should play with your mirror thoroughly to know what it is capable of. But others will be first to demo it.
 
 ***
 
-## Week 7: Play with Mirrors, Preview of Week 8
+## Week 6: Critique Mirrors
 
 ### Assignment
    * Watch: Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
@@ -281,37 +247,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ***
 
-## Week 9 Terrains
-   * Interacting with sound terrains.
-      * Multi-dimensional mapping to create terrains
-      * Mapping linear motion to create non-linear terrains
-
-### Questions
-   * What is the difference between a space and a terrain?
-   * Final Project thoughts: What concepts from this class? What concepts from outside of this class?
-   
-### In-class
-   * Mapping Sound Terrains (Volume + mouseX): [Code](http://alpha.editor.p5js.org/move.mimi/sketches/r1CcXj8qz)
-   * Mapping Kinect Skeleton to a Pitch Terrain: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/r1dcGiM9z)
-      * To help you understand this example:
-      * [Review Objects in JS](https://www.youtube.com/watch?v=-e5h4IGKZRY)
-      * [Video on p5.js Sound Synthesis](https://www.youtube.com/watch?v=Bk8rLzzSink)
-
-###  Assignment
-   * Create a space for next week using whatever means available to you: 
-      * Studio 1 Tech: Floor projection, wall projection, speakers
-      * Studio 1 Furniture: Barres, Chairs, Curtains, Music Stand, Piano
-      * Add your own physical materials: Clip lights, fabric, garbage
-      * Visuals: Code, pre-rendered, photography, video, drawings
-      * Sound: Music, sound effects, computationally generated, spoken word, dialogue
-   * Create a 3-5 minute sketch of your project that connects your 5 tableaus. You will perform it in class next week.
-      * Consider what pathways you employ to get from tableau to tableau
-   * Collect all of your materials into our shared Google Drive
-   
-
-***
-
-## Project Development: Weeks 10, 11, 12
+## Project Development: Weeks 9, 10, 11
 
 Workshop and user-test final project ideas.
 
