@@ -97,29 +97,31 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Interacting with a static pathway (rope)
    * Interacting with moving pathways
    * Examples
-      * [Bobby McFerrin](https://www.youtube.com/watch?v=DoNIOqUz9NM)
-      * [Linear Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/rJWBguUNf)
-      * [Linear Pathway - Deconstructed](http://alpha.editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
-      * Linear Pathway with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/rkMpbedVM) | [Fullscreen](http://alpha.editor.p5js.org/full/rkMpbedVM)
-      * [Random Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/HkL0VOUVf)
-      * [Graphing Random](http://alpha.editor.p5js.org/move.mimi/sketches/SkwF9OLEM)
-      * Random Pathway with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://alpha.editor.p5js.org/full/ByBuJtIEz)
-      * [Noisy Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/ryi5E984G)
-      * [Gaga](https://www.youtube.com/watch?v=OGPG1QL1vJc)
-      * [Graphing Noise](http://alpha.editor.p5js.org/move.mimi/sketches/H16ZQ98Ez)
-      * Noisy with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/r11eUqI4G) | [Fullscreen](http://alpha.editor.p5js.org/full/r11eUqI4G)
-      * [Circular Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/rJSP_5ING)
-      * [Circle with Tangents](http://alpha.editor.p5js.org/move.mimi/sketches/r1HaDcLEz)
-      * [Circles and Sin/Cos](http://alpha.editor.p5js.org/move.mimi/sketches/rJ_vtcUNz)
-      * Circular with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/Sy7iKoIEf) | [Code](http://alpha.editor.p5js.org/full/Sy7iKoIEf)
-      * [Sine for Speed](http://alpha.editor.p5js.org/move.mimi/sketches/B1qna5LVM)
-      * [Circles and Sin/Cos and Tan](http://alpha.editor.p5js.org/move.mimi/sketches/Sk3TEiUEM)
-      * [Polar Roses](https://en.wikipedia.org/wiki/Rose_(mathematics))
-      * [Anne Teresa de Keersmaeker: Violin Fase](https://www.youtube.com/watch?v=i36Qhn7NhoA)
-      * [Polar Rose-ish](http://alpha.editor.p5js.org/move.mimi/sketches/HJTDNYKVf)
-      * [Pina Bausch: La Prima Vez](https://www.youtube.com/watch?v=mrHt6Ob9-3A)
-      * [Timing things with frameCount and %](http://alpha.editor.p5js.org/move.mimi/sketches/rJAA5KkBG)
-      * [Pathways in Visual Art](https://drive.google.com/drive/folders/18-ahAJQ1ogq1wANzjwBVjXzJNHC7CCrG)
+      * Linear Pathways
+         * [Linear Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/rJWBguUNf)
+         * [Linear Pathway - Deconstructed](http://alpha.editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
+         * Linear Pathway with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/rkMpbedVM) | [Fullscreen](http://alpha.editor.p5js.org/full/rkMpbedVM)
+      * Random
+         * [Random Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/HkL0VOUVf)
+         * [Graphing Random](http://alpha.editor.p5js.org/move.mimi/sketches/SkwF9OLEM)
+         * Random Pathway with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://alpha.editor.p5js.org/full/ByBuJtIEz)
+      * Noisy
+         * [Noisy Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/ryi5E984G)
+         * [Bobby McFerrin](https://www.youtube.com/watch?v=DoNIOqUz9NM)
+         * [Gaga](https://www.youtube.com/watch?v=OGPG1QL1vJc)
+         * [Graphing Noise](http://alpha.editor.p5js.org/move.mimi/sketches/H16ZQ98Ez)
+         * Noisy with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/r11eUqI4G) | [Fullscreen](http://alpha.editor.p5js.org/full/r11eUqI4G)
+      * Circular
+         * [Circular Pathway](http://alpha.editor.p5js.org/move.mimi/sketches/rJSP_5ING)
+         * [Circle with Tangents](http://alpha.editor.p5js.org/move.mimi/sketches/r1HaDcLEz)
+         * [Circles and Sin/Cos](http://alpha.editor.p5js.org/move.mimi/sketches/rJ_vtcUNz)
+         * Circular with Controls: [Code](http://alpha.editor.p5js.org/move.mimi/sketches/Sy7iKoIEf) | [Code](http://alpha.editor.p5js.org/full/Sy7iKoIEf)
+         * [Polar Roses](https://en.wikipedia.org/wiki/Rose_(mathematics))
+         * [Polar Rose-ish](http://alpha.editor.p5js.org/move.mimi/sketches/HJTDNYKVf)
+         * [Anne Teresa de Keersmaeker: Violin Fase](https://www.youtube.com/watch?v=i36Qhn7NhoA)
+         * [Pina Bausch: La Prima Vez](https://www.youtube.com/watch?v=mrHt6Ob9-3A)
+      * Extras
+         * [Timing things with frameCount and %](http://alpha.editor.p5js.org/move.mimi/sketches/rJAA5KkBG)
 
 ### Assignment: Study No. 1 Intersections
    * Option 1: Choreograph a duet with a computed pathway.
@@ -141,7 +143,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ***
 
-## Week 4 Form + Substance: Re-architecture
+## Week 4: Form + Substance | Re-architecture
 
 ### Questions
    * What are all the ways the body can fold?
@@ -177,7 +179,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Collect 20 representations of the human form and add them to this folder.
    * Complete sections 2.0-2.2 [Chapter 2 of the Workbook](https://docs.google.com/document/d/19AHtqOiLSZQyVnWc6UNZzi75G_JFZLXLwaGtXkjDmRI/edit?usp=sharing)
 
-## Week 5 Form + Substance: Distortion
+## Week 5: Form + Substance | Distortion
 
 ### Questions
    * What is a body made of?
@@ -217,18 +219,15 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * What are all the ways in which Kylian is working with space? How are the spaces defined?
       * Why angular spaces? Why sharp edges? How would it be different if he used more traditional spotlights?
    * Complete [Chapter 3.0-3.3](https://docs.google.com/document/d/16GRMBthdGza-gdJMk5kWmJ7YWrDQK6pNZM6FWhlyQhw/edit?usp=sharing) of the Workbook
+
 ***
 
-## Week 8: Space
+## Week 7: Space | Divisions
 
 ### Questions
-   * Can space be emotional?
+   * What are all the ways to divide a space?
    * What are all the ways to define space?
    * What are all the ways to interact with a space?
-   * How do you choreograph a "dynamic" space, one that changes over time?
-   * What is the difference between a space and a terrain?
-   * How do terrains influence movement?
-   * Can we define virtual terrains with sound?
 
 ### In-class
    * Interacting with dynamic spaces.
@@ -246,11 +245,12 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Complete [Chapter 3.4-3.5](https://docs.google.com/document/d/16GRMBthdGza-gdJMk5kWmJ7YWrDQK6pNZM6FWhlyQhw/edit?usp=sharing) of the Workbook on Terrains
    * Think about what you'd like to work with for your Final Project? What concepts from this class? What concepts from outside of this class?
 
-***
+### Assignment: Playground
+   * Create an space to interact with as the first step towards your final project.
 
-## Project Development: Weeks 9, 10, 11
+## Project Development: Weeks 8, 9, 10, 11
 
-Workshop and user-test final project ideas.
+Workshop final projects.
 
 ## Showing: Week 12
 
