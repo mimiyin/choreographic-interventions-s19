@@ -1,5 +1,4 @@
-# choreographic-interventions-s19
-# Choreographic Interventions Syllabus - Spring 2018
+# Choreographic Interventions Syllabus - Spring 2019
 
 - Spring 2017, Fridays, 3:20PM-6:15PM in Room 50
 - We will also be working in the dance studio @NYU's Center for Ballet and The Arts [@20 Cooper Square](https://www.google.com/maps/place/20+Cooper+Sq,+New+York,+NY+10003/data=!4m2!3m1!1s0x89c2599b1f6830c9:0x59c76513472fc813?sa=X&ved=2ahUKEwiOt_7-n-3dAhVCh-AKHVM5BJIQ8gEwAHoECAAQAQ)
@@ -7,20 +6,24 @@
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
 ### Course Structure | [See introductory description below.](#course-description)
-Over the course of the semester, we will cover 3 topic areas that correspond to 3 parameters of choreography: Pathways, The Body (Form + Substance), and Space. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples. For each topic, students will create a small movement study in 2 stages: the first analog, the second computational with the aim of fully exploring how technology "intervened" and changed the choreographic process.
 
-The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance.
+Over the course of the semester, we will cover 3 topic areas that correspond to 3 parameters of choreography: Pathways, The Body (Form + Substance) and Space. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples. For each topic, students will create a small movement studies with the aim of fully exploring how technology "intervenes" and changes the choreographic process.
+
+The class will culminate in a showing of student work. Final projects can either be in the form of an interactive installation or live performance.
+
+This class runs in conjunction with a course in the Barnard/Columbia Dance Department and will comprise of students from both NYU and Barnard/Columbia. All classes will take place @NYU. Most weeks, the last hour of each class will be devoted to a separate technical lab for ITP students only.
 
 Because course topics are organized around movement concepts, technical topics will be introduced and built upon week to week.
-- What do cameras see? RGB, IR, Kinect, Mocap...
-- Skeletons, Depth Maps and Silhouettes
-- Basic programming concepts: Variables, Conditionals, Loops, Arrays
+- What do cameras see? What don't they see?
+- Skeletons, Depth Maps and Contours
 - 2D v. 3D
-- Drawing and animation
-- Random, noise, oscillation, easing, etc.
-- Calculating velocity and acceleration
 - Mapping values
-- Manipulating text, sound and live image processing
+- Working with position versus velocity of movement
+- Position tracking
+- Projection mapping
+- Computational approaches to choreographing pathways of motion
+- Computational approaches to dividing and defining space
+- Modes of interaction
 
 "Soft Skills" we will practice:
 - Sketching (as in drawing on paper) choreographic ideas.
@@ -40,8 +43,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 - [The Nature of Code Book](http://natureofcode.com/book/)
 
 ### Dance + Movement Resources
-- Select chapters from [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413) | [PDF](https://stilluntitledproject.files.wordpress.com/2014/11/anne-bogart-and-tina-landau-the-viewpoints-book.pdf)
-- Select chapters from [Dynamic Alignment Through Imagery](http://www.amazon.com/Dynamic-Alignment-Through-Imagery-Edition/dp/0736067892) | [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false)
+- Select chapters from [The Viewpoints Book](http://www.amazon.com/The-Viewpoints-Book-Practical-Composition/dp/1559362413) | [PDF](https://stilluntitledproject.files.wordpress.com/2014/11/anne-bogart-and-tina-landau-the-viewpoints-book.pdf) | [NYU Library](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph000288171&context=L&vid=NYU&search_scope=all&tab=all&lang=en_US)
+- Select chapters from [Dynamic Alignment Through Imagery](http://www.amazon.com/Dynamic-Alignment-Through-Imagery-Edition/dp/0736067892) | [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [NYU Library](http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003964968&context=L&vid=NYU&search_scope=all&isFrbr=true&tab=all&lang=en_US)
 - [Forsythe Technique Videos on Youtube](https://www.youtube.com/user/GrandpaSafari/videos)
 
 
