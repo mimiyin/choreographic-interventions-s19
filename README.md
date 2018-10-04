@@ -55,12 +55,13 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 ### Questions
    * Why are we here?
    * What is computational thinking? What is choreographic thinking?
-   * What is anintervention?
+   * What is an intervention?
    * What is interaction?
    * What are the parameters of choreography?
    * How is code an expressive medium?
 
 ### In-class
+   * Introduce yourself and your favorite pose.
    * Drawing with the body
    * Hello Kinect Skeleton
    * Examples:
@@ -121,8 +122,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Pathways in Visual Art](https://drive.google.com/drive/folders/18-ahAJQ1ogq1wANzjwBVjXzJNHC7CCrG)
 
 ### Assignment: Study No. 1 Intersections
-   * Choreograph a duet with a computed pathway.
-   * Choreograph a pathway in code.
+   * Option 1: Choreograph a duet with a computed pathway.
+   * Option 2: Choreograph a pathway in code.
 
 ***
 
@@ -135,42 +136,24 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ### Assignment
    * Read Chapter 7 of Dynamic Alignment: [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [PDF](https://drive.google.com/file/d/0B_lnhZP0dCt8LVZMRXlqNFFQaFk/view?usp=sharing)
-   * Complete [Chapter 2 of the Workbook](https://docs.google.com/document/d/19AHtqOiLSZQyVnWc6UNZzi75G_JFZLXLwaGtXkjDmRI/edit?usp=sharing)
+   * Complete sections 2.0-2.2 [Chapter 2 of the Workbook](https://docs.google.com/document/d/19AHtqOiLSZQyVnWc6UNZzi75G_JFZLXLwaGtXkjDmRI/edit?usp=sharing)
    * Bring a piece of clothing that changes the shape of your body to class next week.
 
 ***
 
-## Week 4 Body: Form and Substance
-
-### In-class
-  * Introduction to Kinect v.2 camera
-  * Kinectron server + p5.js
-  * Drawing with the joints of the body
-  * Examples
-
-***
-
-## Week 5 Form + Substance: Re-architecture
+## Week 4 Form + Substance: Re-architecture
 
 ### Questions
-   * Form
-      * What are all the ways the body can fold?
-      * What are all the ways the body can spiral?
-      * What are all the ways the body is (as)symmetrical.
-      * How would you walk if your head was facing back, in between your knees?
-   * Substance
-      * What is a body made of?
-      * How can changing the way your body is represented change how you move?
+   * What are all the ways the body can fold?
+   * What are all the ways the body can spiral?
+   * What are all the ways the body is (as)symmetrical.
+   * How would you walk if your head was facing back, in between your knees?
 
 ### In-class
    * Clothing swap improv.
    * Re-designing the skeleton in 2D and 3D
-      * Play with Kinect funhouse mirrors
-     * The Gumby Effect: Bending body contours.
-     * Prickly Pears: Visualizing the sensation of pins and needles.
-     * Rei Kawakubo: Bulging and pinching your insides.
 
-   * Resources: Form
+   * Resources
       * [Bodies We Collected](https://drive.google.com/drive/folders/1W74yWhmgR1Cly2MFlATCqhzqtrmItiOw?usp=sharing)
       * [Merce Cunningham and Life Forms](https://www.youtube.com/watch?v=ROmTHBg8Nw0)
       * [Phantom Limb Effect](https://en.wikipedia.org/wiki/Phantom_limb)
@@ -189,7 +172,24 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Vectors in p5](http://p5js.org/reference/#/p5.Vector)
          * [Vertex in p5](http://p5js.org/reference/#/p5/vertex) | [curveVertex in p5](http://p5js.org/reference/#/p5/curveVertex)
          * Nature of Code: Introduction to Vectors: [Textbook](http://natureofcode.com/book/chapter-1-vectors/) | [Video](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZwSmtE13iJBcoI-r4y7iEc)
-   * Resources: Structure
+
+#### Assignment
+   * Collect 20 representations of the human form and add them to this folder.
+   * Complete sections 2.0-2.2 [Chapter 2 of the Workbook](https://docs.google.com/document/d/19AHtqOiLSZQyVnWc6UNZzi75G_JFZLXLwaGtXkjDmRI/edit?usp=sharing)
+
+## Week 5 Form + Substance: Distortion
+
+### Questions
+   * What is a body made of?
+   * How does changing the substance of the body change how you move?
+
+### In-class
+   * Visualization improv
+   * Play with Kinect funhouse mirrors
+      * The Gumby Effect: Bending body contours.
+      * Prickly Pears: Visualizing the sensation of pins and needles.
+      * Rei Kawakubo: Bulging and pinching your insides.
+   * Resources
       * [Processing Java and p5.js](https://github.com/processing/p5.js/wiki/Processing-transition)
       * [Processing Java and p5.js Cheatsheet](https://docs.google.com/document/d/126TTVuJ0fl2fv1Rcp7eAE7vR4rJ5gMGnBKaeZhSjPbs/edit?usp=sharing)
       * [Kinect PV2 Library for Processing Java on PC](https://github.com/ThomasLengeling/KinectPV2)
@@ -203,13 +203,14 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Drunk Guy In Convenience Store](https://www.youtube.com/watch?v=8M_oBYNb6UU)
 
 ### Assignment: Study No. 2 Mirror
-   * Create a mirror that distorts or re-architects the body to move in new and unexpected ways.
-   * Be clear about how you think the mirror is going to make people move.
-   * You should play with your mirror thoroughly to know what it is capable of. But others will be first to demo it.
+   * Option 1: Select an existing mirror and choreograph a short solo for it.
+   * Options 2: Create a mirror that distorts or re-architects the body to move in new and unexpected ways.
+      * Be clear about how you think the mirror is going to make people move.
+      * You should play with your mirror thoroughly to know what it is capable of. But others will be first to demo it.
 
 ***
 
-## Week 6: Critique Mirrors
+## Week 6: Play with Mirrors
 
 ### Assignment
    * Watch: Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
