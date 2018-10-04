@@ -1,13 +1,13 @@
 # choreographic-interventions-s19
 # Choreographic Interventions Syllabus - Spring 2018
 
-- Spring 2017, Mondays, 7PM-9:55PM in Studio 1 @[111 2nd Avenue](https://goo.gl/maps/FfVoDSMxNSN2)
+- Spring 2017, Fridays, 3:20PM-6:15PM in Room 50
+- We will also be working in the dance studio @NYU's Center for Ballet and The Arts [@20 Cooper Square](https://www.google.com/maps/place/20+Cooper+Sq,+New+York,+NY+10003/data=!4m2!3m1!1s0x89c2599b1f6830c9:0x59c76513472fc813?sa=X&ved=2ahUKEwiOt_7-n-3dAhVCh-AKHVM5BJIQ8gEwAHoECAAQAQ)
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
-- [Book Time in Studio 1](https://calendar.google.com/calendar?cid=bnl1LmVkdV9oOHRnbGFjdmpuYWo4NnZ0NWZkaGU0OGI3OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### Course Structure | [See introductory description below.](#course-description)
-Over the course of the semester, we will cover 4 topic areas that correspond to 4 parameters of choreography: Pathways, The Body (Form + Substance), Space and Time. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples. For each topic, students will create a small movement study in 2 stages: the first analog, the second computational with the aim of fully exploring how technology "intervened" and changed the choreographic process.
+Over the course of the semester, we will cover 3 topic areas that correspond to 3 parameters of choreography: Pathways, The Body (Form + Substance), and Space. Topics will be introduced through movement-based improvisation exercises. Computational strategies will be examined through code examples. For each topic, students will create a small movement study in 2 stages: the first analog, the second computational with the aim of fully exploring how technology "intervened" and changed the choreographic process.
 
 The class will culminate in a showing of student work. Final projects can either be in the form of a tool to aid in movement practice, an interactive installation or a live performance.
 
@@ -315,10 +315,6 @@ Workshop and user-test final project ideas.
 ## Showing: Week 12
 
 # Course Description
-Even where there is no connection between 2 events, if they happen at the same time, in the same space, we find relationships nonetheless.
-
-So then what is the point of hooking up dancers to sensing devices to connect them to various media if the relationships already exist in our minds? Simply seeing a cause-and-effect relationship between movement (input) and media (output) is not enough.
-
 This course re-conceives interactive media as a form of choreographic intervention. Instead of asking how dancers can control media, we will turn the tables to ask how interactive systems can influence movement. How do you make someone feel soft inside? How do you shake an entire room? How do you orchestrate duets between strangers?
 
 To accomplish this, choreographers will learn to apply computational thinking to choreography and programmers will learn to apply choreographic thinking to computation. And to whatever extent possible, we will attempt to embody code.
