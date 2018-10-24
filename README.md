@@ -259,13 +259,15 @@ Over the next 4 weeks, in groups of 3-4, create a movement-based interactive wor
 # Course Description
 This course re-conceives interactive media as a form of choreographic intervention. Instead of asking how moving bodies can control media, we will ask how interactive systems can influence movement. How do you make someone feel soft inside? How do you shake an entire room? How do you orchestrate duets between strangers?
 
-To accomplish this, the class coordinates collaborations between ITP students and dancers from the Barnard/Columbia Dance Department. Choreographers will learn to apply computational thinking to choreography and creative coders will learn to apply choreographic thinking to computation. To whatever extent possible, we will attempt to embody code.
+To accomplish this, the class facilitates a semester-long collaboration between ITP students and dancers from the Barnard/Columbia Dance Department. Choreographers will learn to apply computational thinking to choreography and creative coders will learn to apply choreographic thinking to computation. To whatever extent possible, we will attempt to embody code.
 
 Using computer vision and visual media, we will look at directing both how people move (quality of movement) as well as where they move (pathways and spatial relationships).
 
 We will evaluate the strengths and weaknesses of the various sensing technologies available to us today. How wide is the gulf between what we can see and feel (strength, hardness, contortion) and what a computer can see and interpret (locations, contours, velocity, acceleration)? Class time will be split between movement exercises, playing with examples and deconstructing code.
 
 The class will culminate in a final showing of student work.
+
+All classes will take place at NYU with a separate weekly technical lab for ITP students.		  		  		  		  
 
 ## Pre-requisites
 The course is intended both for anyone looking to deepen their practice in working with movement-based interaction regardless of previous experience with movement technique or programming.
