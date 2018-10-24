@@ -1,7 +1,7 @@
 # Choreographic Interventions Syllabus - Spring 2019
 
 - Spring 2017, Fridays, 3:20PM-6:15PM in Room 50
-- We will also be working in the dance studio @NYU's Center for Ballet and The Arts [@20 Cooper Square](https://www.google.com/maps/place/20+Cooper+Sq,+New+York,+NY+10003/data=!4m2!3m1!1s0x89c2599b1f6830c9:0x59c76513472fc813?sa=X&ved=2ahUKEwiOt_7-n-3dAhVCh-AKHVM5BJIQ8gEwAHoECAAQAQ)
+- We will be making weekly field trips to the dance studio @NYU's Center for Ballet and The Arts [@20 Cooper Square](https://www.google.com/maps/place/20+Cooper+Sq,+New+York,+NY+10003/data=!4m2!3m1!1s0x89c2599b1f6830c9:0x59c76513472fc813?sa=X&ved=2ahUKEwiOt_7-n-3dAhVCh-AKHVM5BJIQ8gEwAHoECAAQAQ)
 - Mimi Yin, mimi.yin@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
@@ -255,15 +255,15 @@ Over the next 4 weeks, in groups of 3-4, create a movement-based interactive wor
 ## Showing: Week 12
 
 # Course Description
-This course re-conceives interactive media as a form of choreographic intervention. Instead of asking how dancers can control media, we will turn the tables to ask how interactive systems can influence movement. How do you make someone feel soft inside? How do you shake an entire room? How do you orchestrate duets between strangers?
+This course re-conceives interactive media as a form of choreographic intervention. Instead of asking how moving bodies can control media, we will ask how interactive systems can influence movement. How do you make someone feel soft inside? How do you shake an entire room? How do you orchestrate duets between strangers?
 
-To accomplish this, choreographers will learn to apply computational thinking to choreography and programmers will learn to apply choreographic thinking to computation. And to whatever extent possible, we will attempt to embody code.
+To accomplish this, the class coordinates collaborations between ITP students and dancers from the Barnard/Columbia Dance Department. Choreographers will learn to apply computational thinking to choreography and creative coders will learn to apply choreographic thinking to computation. To whatever extent possible, we will attempt to embody code.
 
-Using computer vision and a broad range of media from graphics and video, to sound and text, we will look at directing both how people move (quality of movement) as well as where they move (pathways and spatial relationships).
+Using computer vision and visual media, we will look at directing both how people move (quality of movement) as well as where they move (pathways and spatial relationships).
 
 We will evaluate the strengths and weaknesses of the various sensing technologies available to us today. How wide is the gulf between what we can see and feel (strength, hardness, contortion) and what a computer can see and interpret (locations, contours, velocity, acceleration)? Class time will be split between movement exercises, playing with examples and deconstructing code.
 
-The course is cross-listed with the Tisch Dance MFA department. All assignments will be collaborations between ITP and Tisch Dance students. The class will culminate in a final showing.
+The class will culminate in a final showing of student work.
 
 ## Pre-requisites
 The course is intended both for anyone looking to deepen their practice in working with movement-based interaction regardless of previous experience with movement technique or programming.
