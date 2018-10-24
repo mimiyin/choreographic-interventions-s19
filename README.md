@@ -222,12 +222,10 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ***
 
-## Week 7: Space | Divisions
+## Week 7: Space | Boundaries and Divisions
 
 ### Questions
    * What are all the ways to divide a space?
-   * What are all the ways to define space?
-   * What are all the ways to interact with a space?
 
 ### In-class
    * Interacting with dynamic spaces.
@@ -235,20 +233,24 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Moving Bisect](http://alpha.editor.p5js.org/move.mimi/sketches/ryEOkt8cM)
       * [Moving Trisect](http://alpha.editor.p5js.org/mimi/sketches/rJUlQF8qG)
       * [Growing Circle](http://alpha.editor.p5js.org/mimi/sketches/Bk6pMtLcG)
+
+### Assignment
+   * Complete [Chapter 3.4-3.5](https://docs.google.com/document/d/16GRMBthdGza-gdJMk5kWmJ7YWrDQK6pNZM6FWhlyQhw/edit?usp=sharing) of the Workbook on Terrains
+   * Think about what you'd like to work with for your Final Project? What concepts from this class? What concepts from outside of this class?
+
+## Week 8: Space | Areas and Terrains
+
+### In-class
    * Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
    * Floorplans: [Residential](https://www.google.com/search?q=floor+plans&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE18_pnIraAhUQON8KHTIbCgQQ_AUICigB&biw=1488&bih=960) v. [Cathedral](https://www.google.com/search?q=cathedral+floor+plans&source=lnms&tbm=isch&sa=X&ved=0ahUKEwibgLClnYraAhXNSt8KHaWoDMUQ_AUICigB&biw=1488&bih=960)
    * [Kazimir Malevich](https://drive.google.com/drive/folders/0B_lnhZP0dCt8ek8wbVRzM18wcnM?usp=sharing)
    * [Esther Ferrer](https://drive.google.com/drive/folders/1qCtTa2cDVw9DKYQksT7G_wbwT6Rzjbhf)
    * [The Virginia Reel](https://www.youtube.com/watch?v=uBBdgcHimoM)
 
-### Assignment
-   * Complete [Chapter 3.4-3.5](https://docs.google.com/document/d/16GRMBthdGza-gdJMk5kWmJ7YWrDQK6pNZM6FWhlyQhw/edit?usp=sharing) of the Workbook on Terrains
-   * Think about what you'd like to work with for your Final Project? What concepts from this class? What concepts from outside of this class?
-
 ### Assignment: Playground
    * Create an space to interact with as the first step towards your final project.
 
-## Project Development: Weeks 8, 9, 10, 11
+## Project Development: Weeks 9, 10, 11
 
 Over the next 4 weeks, in groups of 3-4, create a movement-based interactive work that explores one or more modes of interaction and one or more of parameters of choreography from this course. The work can take the form of an installation or a performance. Installations can be time-based or persistent with no definitive start or end time. The only requirement is that the choreography must be interactive, meaning the performers are making choreographic decisions in real-time. This doesn’t mean there is no element of pre-set choreography, however there must be room in the choreographic structure for individual decision-making. You will have a maximum of 10 minutes to show your work. Each group will consist of 1-2 students from ITP and 1-2 students from Barnard.
 
