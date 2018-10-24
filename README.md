@@ -20,7 +20,7 @@ Because course topics are organized around movement concepts, technical topics w
 - Mapping values
 - Working with position versus velocity of movement
 - Position tracking
-- Projection mapping
+- 2D Projection mapping
 - Computational approaches to choreographing pathways of motion
 - Computational approaches to dividing and defining space
 - Modes of interaction
