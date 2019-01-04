@@ -1,8 +1,9 @@
 # Choreographic Interventions Syllabus - Spring 2019
 
 - Spring 2019, Fridays, 3:20PM-6:15PM in Room 50
+- Schedule for [Barnard/Columbia Students](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Class-Dates-and-Times-for-Barnard-Columbia-Students)
 - We will be making weekly field trips to the dance studio @NYU's Center for Ballet and The Arts [@20 Cooper Square](https://www.google.com/maps/place/20+Cooper+Sq,+New+York,+NY+10003/data=!4m2!3m1!1s0x89c2599b1f6830c9:0x59c76513472fc813?sa=X&ved=2ahUKEwiOt_7-n-3dAhVCh-AKHVM5BJIQ8gEwAHoECAAQAQ)
-- Mimi Yin, mimi.yin@nyu.edu
+- Instructors: Mimi Yin, mimi.yin@nyu.edu, Kat Sullivan, kat.sullivan@nyu.edu
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
 ### Course Structure | [See introductory description below.](#course-description)
