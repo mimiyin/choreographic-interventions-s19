@@ -56,7 +56,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Cartesian Plane, Linear Motion, Drawing with the Body with the Kinect
 
 ### Assignment
-   * [Watch videos 1-8](https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(102 minutes)
+   * [Watch videos 1-9](https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(111 minutes)
    * [Watch videos 12, 14, 16, 18-20, 25, 26](https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(95 minutes)
 
 
@@ -75,13 +75,10 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Walking improv.
    * Drawing with the mouse. Drawing with the body.
    * Examples:
-      * [Drawing Lines](http://editor.p5js.org/move.mimi/sketches/ByPtNLI4z) | [Fullscreen](http://editor.p5js.org/full/ByPtNLI4z) | 1-Mode-At-A-Time: [0](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez) | [1](http://editor.p5js.org/move.mimi/sketches/HyNmKKL4f) | [2](http://editor.p5js.org/move.mimi/sketches/SkEk9KUNM) | [3](http://editor.p5js.org/move.mimi/sketches/ByPfqt84f)
-      * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Fullscreen](http://editor.p5js.org/full/H1flrLLVG)
+      * [Drawing Lines](http://editor.p5js.org/move.mimi/sketches/ByPtNLI4z) | [Fullscreen](http://editor.p5js.org/embed/ByPtNLI4z) | 1-Mode-At-A-Time: [0](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez) | [1](http://editor.p5js.org/move.mimi/sketches/HyNmKKL4f) | [2](http://editor.p5js.org/move.mimi/sketches/SkEk9KUNM) | [3](http://editor.p5js.org/move.mimi/sketches/ByPfqt84f)
+      * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Fullscreen](http://editor.p5js.org/embed/H1flrLLVG)
       * [Kinect Skeleton](http://editor.p5js.org/move.mimi/sketches/rJPcXh84z)
-      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG) | [Fullscreen](http://editor.p5js.org/full/ByQxNn8NG)
-      * Kinect Skeleton - Control Noise: [Code](http://editor.p5js.org/move.mimi/sketches/BJtH8dsIz) | [Fullscreen](http://editor.p5js.org/full/BJtH8dsIz)
-      * Kinect Skeleton - Draw Lines - Multiple Bodies: [Code](http://editor.p5js.org/move.mimi/sketches/BJwpqUAEz) | [Fullscreen](http://editor.p5js.org/full/BJwpqUAEz)
-
+      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG) | [Fullscreen](http://editor.p5js.org/embed/ByQxNn8NG)
 
 ### Assignment
    * For background on approaches to movement improvisation:
@@ -113,13 +110,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Linear Pathways
          * [Linear Pathway](http://editor.p5js.org/move.mimi/sketches/rJWBguUNf)
          * [Linear Pathway - Deconstructed](http://editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
-         * Linear Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/rkMpbedVM) | [Fullscreen](http://editor.p5js.org/full/rkMpbedVM)
       * Random
          * [Random Pathway](http://editor.p5js.org/move.mimi/sketches/HkL0VOUVf)
          * [Graphing Random](http://editor.p5js.org/move.mimi/sketches/SkwF9OLEM)
-         * Random Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://editor.p5js.org/full/ByBuJtIEz)
-      * Extras
-         * [Timing things with frameCount and %](http://editor.p5js.org/move.mimi/sketches/rJAA5KkBG)
+         * [Random Intervals](http://alpha.editor.p5js.org/move.mimi/sketches/SkwF9OLEM) | [Fullscreen](http://alpha.editor.p5js.org/move.mimi/embed/SkwF9OLEM)
+         * Random Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://editor.p5js.org/embed/ByBuJtIEz)
 
 ### Assignment: Study No. 1 Linear and Random Pathways
    * Choreograph a generative (linear or random) pathway. Practice improvising against it. (You may either write your own code or use one of the examples.)
@@ -137,16 +132,16 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Deconstructing pathways through computation: noisy, circular
    * Examples
       * Noisy
-         * [Noisy Pathway](http://editor.p5js.org/move.mimi/sketches/ryi5E984G)
          * [Bobby McFerrin](https://www.youtube.com/watch?v=DoNIOqUz9NM)
          * [Gaga](https://www.youtube.com/watch?v=OGPG1QL1vJc)
+         * [Noisy Pathway](http://editor.p5js.org/move.mimi/sketches/ryi5E984G)
          * [Graphing Noise](http://editor.p5js.org/move.mimi/sketches/H16ZQ98Ez)
-         * Noisy with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/r11eUqI4G) | [Fullscreen](http://editor.p5js.org/full/r11eUqI4G)
+         * Noisy with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/r11eUqI4G) | [Fullscreen](http://editor.p5js.org/embed/r11eUqI4G)
       * Circular
          * [Circular Pathway](http://editor.p5js.org/move.mimi/sketches/rJSP_5ING)
          * [Circle with Tangents](http://editor.p5js.org/move.mimi/sketches/r1HaDcLEz)
          * [Circles and Sin/Cos](http://editor.p5js.org/move.mimi/sketches/rJ_vtcUNz)
-         * Circular with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/Sy7iKoIEf) | [Code](http://editor.p5js.org/full/Sy7iKoIEf)
+         * Circular with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/Sy7iKoIEf) | [Code](http://editor.p5js.org/embed/Sy7iKoIEf)
          * [Polar Roses](https://en.wikipedia.org/wiki/Rose_(mathematics))
          * [Polar Rose-ish](http://editor.p5js.org/move.mimi/sketches/HJTDNYKVf)
          * [Anne Teresa de Keersmaeker: Violin Fase](https://www.youtube.com/watch?v=i36Qhn7NhoA)
