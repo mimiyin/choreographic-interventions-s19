@@ -113,6 +113,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Deconstructing pathways through computation: linear, random()
    * Interacting with a static pathway (rope)
    * Interacting with moving pathways
+   * Resources
+      * [Pathways Tutorial](https://docs.google.com/document/d/1YsZ_6vcZ0FXrp_Bd0acECLyZfL7bsRNBAf1evvVJADI/edit?usp=sharing)
    * Examples
       * Linear Pathways
          * [Linear Pathway](http://editor.p5js.org/move.mimi/sketches/rJWBguUNf)
