@@ -119,14 +119,15 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Linear Pathways
          * [Linear Pathway](http://editor.p5js.org/move.mimi/sketches/rJWBguUNf)
          * [Linear Pathway - Deconstructed](http://editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
+         * Linear Pathway with Controls: [Code](https://editor.p5js.org/move.mimi/sketches/rkMpbedVM) | [Fullscreen](https://editor.p5js.org/move.mimi/embed/rkMpbedVM)
       * Random
          * [Random Pathway](http://editor.p5js.org/move.mimi/sketches/HkL0VOUVf)
          * [Graphing Random](http://editor.p5js.org/move.mimi/sketches/SkwF9OLEM)
          * [Random Intervals](http://alpha.editor.p5js.org/move.mimi/sketches/SkwF9OLEM) | [Fullscreen](http://alpha.editor.p5js.org/move.mimi/embed/SkwF9OLEM)
          * Random Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://editor.p5js.org/embed/ByBuJtIEz)
 
-### Assignment: Study No. 1 Linear and Random Pathways
-   * Choreograph a generative (linear or random) pathway. Practice improvising against it. (You may either write your own code or use one of the examples.)
+### Assignment: Study No. 1 Random Pathways
+   * Choreograph a 15-second generative random pathway. (You may either write your own code or use one of the examples.) At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about the linear pathways that are baked into Random Pathways.
 
 ***
 
@@ -157,7 +158,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Pina Bausch: La Prima Vez](https://www.youtube.com/watch?v=mrHt6Ob9-3A)
 
 ### Assignment: Study No. 2 Noisy and Circular Pathways
-   * Choreograph a generative (noisy or circular) pathway in code. Practice improvising against it. (You may either write your own code or use one of the examples.)
+   * Choreograph a 15-second generative circular pathway in code. At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about when a circular pathway starts to feel like noise.
 
    ***
 
