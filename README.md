@@ -95,7 +95,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Avoidance](https://www.youtube.com/watch?v=cqGyFiEXXIQ)
          * [Line](https://www.youtube.com/watch?v=aOd0PtgS8KU)
       * Read chapter 2 of [Viewpoints](https://stilluntitledproject.files.wordpress.com/2014/11/anne-bogart-and-tina-landau-the-viewpoints-book.pdf).
-   * Everyone: Complete [Chapter 1](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
+   * Complete [Chapter 1.0-1.3](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
 ***
 
@@ -128,6 +128,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ### Assignment: Study No. 1 Random Pathways
    * Choreograph a 15-second generative random pathway. (You may either write your own code or use one of the examples.) At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about the linear pathways that are baked into Random Pathways.
+      * Remember aspect ratio of the floor projection: 2400 x 1920 or 5:4 or 1200 x 960 on your laptop.
+      * All of your motion should be pegged to width and height of the window otherwise your speeds will all off.
+      * If you wrote code, post a link to it here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
+   * Complete [Chapter 1.4-1.5](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
+
 
 ***
 
@@ -176,15 +181,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Hello Kinect + Kinectron
    * Hello Kinect Skeleton
    * Resources
-      * [Merce Cunningham and Life Forms](https://www.youtube.com/watch?v=ROmTHBg8Nw0)
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * [Phantom Limb Effect](https://en.wikipedia.org/wiki/Phantom_limb)
-      * Kinect | [What is it?](https://en.wikipedia.org/wiki/Kinect)
-         * [How depth-sensing works in Kinect2](http://www.gamasutra.com/blogs/DanielLau/20131127/205820/The_Science_Behind_Kinects_or_Kinect_10_versus_20.php) | [Microsoft SDK](https://msdn.microsoft.com/en-us/library/dn799271.aspx) | [Kinect Demo](http://123kinect.com/everything-kinect-2-one-place/43136/)
-         * [Kinectron Library](https://github.com/lisajamhoury/kinectron) | [Download Kinectron App for PC](https://github.com/lisajamhoury/kinectron/releases/tag/0.0.4.6) | [Directions for installing](https://github.com/lisajamhoury/kinectron#kinectron-application-installation)
-         * [DanO's Kinectron Tutorial](https://itp.nyu.edu/classes/dance-f16/kinect/)
-      * Examples
-         * [Kinect Skeleton with Bones](Skeleton with Bones)
+      * Kinect
+         * [Hello Kinect Tutorial](https://docs.google.com/document/d/1RjHyUy2HQDHJuLMlnmqD5LpAzUC68HW154YJvyOQnkA/edit?usp=sharing)
+         * [Kinect Skeleton with Bones](https://editor.p5js.org/move.mimi/sketches/B1K5tsmM4)
 
 ### Assignment
    * Read Chapter 7 of Dynamic Alignment: [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [PDF](https://drive.google.com/file/d/0B_lnhZP0dCt8LVZMRXlqNFFQaFk/view?usp=sharing)
@@ -209,8 +210,9 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Resources
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * Examples
-         * [Distance between joints](): Coming soon!
-         * [Velocity](): Coming soon!
+         * [Distance between joints](https://editor.p5js.org/move.mimi/sketches/rJENqsmGV)
+         * [Velocity](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
+         * [Velocities](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
 
 #### Assignment: Study No. 3 Interactive pathways.
    * Re-work one of your generative pathways to be interactive.
@@ -229,31 +231,27 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 ### In-class
    * Clothing improv.
    * Play with Mirrors
-      * [Alexander Calder: Wire sculptures.](https://www.google.com/search?biw=1456&bih=1028&tbm=isch&sa=1&ei=FqMvXO7aO_K3ggeMpL-QCg&q=calder+wire+sculpture+body&oq=calder+wire+sculpture+body&gs_l=img.3...16593.17096..17327...0.0..0.85.308.5......1....1..gws-wiz-img.......0i30j0i5i30j0i24.HwYVBG-o5og) | [Ghostcatching by Bill T. Jones](https://www.youtube.com/watch?v=aL5w_b-F8ig)
-      * Rei Kawakubo: Shifting your center of gravity. [Scenario by Merce Cunningham](https://www.youtube.com/watch?v=MBlzeehZIeE)
-      * Prickly Pears: Visualizing the sensation of pins and needles.
-      * Slit-scan Video: Morphing over time.
+      * Visualizing the sensation of pins and needles with Silhouettes
+      * Morphing with Depth Map
+      * Morphing over time with slit-scan video
+      * 2D wire body
       * The Gumby Effect: Morphing body contours.
-   * Hello Contours + OpenCV
+      * 3D bodies to shift your center of gravity
    * Resources
+      * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
+      * [Drunk Guy In Convenience Store](https://www.youtube.com/watch?v=8M_oBYNb6UU)
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
+      * [Alexander Calder: Wire sculptures.](https://www.google.com/search?biw=1456&bih=1028&tbm=isch&sa=1&ei=FqMvXO7aO_K3ggeMpL-QCg&q=calder+wire+sculpture+body&oq=calder+wire+sculpture+body&gs_l=img.3...16593.17096..17327...0.0..0.85.308.5......1....1..gws-wiz-img.......0i30j0i5i30j0i24.HwYVBG-o5og) | [Ghostcatching by Bill T. Jones](https://www.youtube.com/watch?v=aL5w_b-F8ig)
       * [Martha Graham: Lamentations and Satyric Song](https://www.youtube.com/watch?v=npSXDzqwFJg)
+      * [Issey Miyake and Irving Penn](https://www.google.com/search?biw=1291&bih=898&tbm=isch&sa=1&ei=XzCQWpG0N8zb5gLR1KeIBg&q=issey+miyake+irving+penn&oq=issey+miyake+irving+penn&gs_l=psy-ab.3..0j0i24k1.9304.13950.0.14077.13.5.0.8.8.0.67.293.5.5.0....0...1c.1.64.psy-ab..0.13.309...0i13k1.0.vR3PuPm3nNg)
       * [David Byrne: Stop Making Sense](https://youtu.be/av3j4WStj2A?t=180)
       * [Tutus: Romantic v. Pancake](https://en.wikipedia.org/wiki/Tutu_(clothing))
-      * [Issey Miyake and Irving Penn](https://www.google.com/search?biw=1291&bih=898&tbm=isch&sa=1&ei=XzCQWpG0N8zb5gLR1KeIBg&q=issey+miyake+irving+penn&oq=issey+miyake+irving+penn&gs_l=psy-ab.3..0j0i24k1.9304.13950.0.14077.13.5.0.8.8.0.67.293.5.5.0....0...1c.1.64.psy-ab..0.13.309...0i13k1.0.vR3PuPm3nNg)
-      * Video:
-         * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
-         * [Drunk Guy In Convenience Store](https://www.youtube.com/watch?v=8M_oBYNb6UU)
-      * Resources
-         * [Processing Java and p5.js](https://github.com/processing/p5.js/wiki/Processing-transition)
-         * [Processing Java and p5.js Cheatsheet](https://docs.google.com/document/d/126TTVuJ0fl2fv1Rcp7eAE7vR4rJ5gMGnBKaeZhSjPbs/edit?usp=sharing)
-         * [Kinect PV2 Library for Processing Java on PC](https://github.com/ThomasLengeling/KinectPV2)
-         * [OpenCV Library for Processing Java](https://github.com/atduskgreg/opencv-processing)
-         * [Kinect for Mac](http://shiffman.net/p5/kinect/)
-         * [Slit-scan Video Tutorial for p5.js](https://www.youtube.com/watch?v=YqVbuMPIRwY)
+      * Rei Kawakubo: Shifting your center of gravity. [Scenario by Merce Cunningham](https://www.youtube.com/watch?v=MBlzeehZIeE)
       * Examples:
+         * [Moving Bezier](http://alpha.editor.p5js.org/mimi/sketches/Hkbojc0Ie)
          * [Slit-scan Video](https://github.com/mimiyin/sense-me-move-me/tree/master/02_body/SlitScan)
-         * [Skeleton with 2D Shapes](http://editor.p5js.org/move.mimi/sketches/r1qp9ffuz)
+         * [Skeleton with 2D Shapes](https://editor.p5js.org/move.mimi/sketches/rk54oI0EG)
+         * [Skeleton with 3D Shapes](https://editor.p5js.org/move.mimi/sketches/HkWvsLR4z)
          * [Kinect2 Examples for Processing Java on PC](https://drive.google.com/open?id=1g3RyZycZVA3hD2sH1Q2rVUXjGyct9qnZ)
 
 ### Assignment: Study No. 4 Mirror Dance
@@ -279,12 +277,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ### In-class
    * [Kazimir Malevich](https://drive.google.com/drive/folders/0B_lnhZP0dCt8ek8wbVRzM18wcnM?usp=sharing)
-   * Interacting with Divisions and Boundaries.
-      * [Division](http://editor.p5js.org/mimi/sketches/SkHhftI9M)
-      * [Growing Circle](http://editor.p5js.org/mimi/sketches/Bk6pMtLcG)
-   * Defining Divisions and Boundaries with Bodies
-      * Ways to calculate divisions and boundaries.
-   * Hello Projection Mapping
+   * Interacting with Divisions / Boundaries / Areas / Terrains
+      * [Moving Bisect](http://alpha.editor.p5js.org/embed/HJIMl-wjg)
+      * [Growing Circle](http://alpha.editor.p5js.org/embed/Bk6pMtLcG)
+      * [Grid](https://editor.p5js.org/mimi/embed/SkHhftI9M)
+   * Hello Projection Mapping: The Set-up (Tutorial coming soon)
 
 ### Assignment
    * Complete [Chapter 3.4-3.5](https://docs.google.com/document/d/16GRMBthdGza-gdJMk5kWmJ7YWrDQK6pNZM6FWhlyQhw/edit?usp=sharing) of the Workbook on Terrains
@@ -292,24 +289,15 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 ## Week 8: Space | Areas and Terrains
 
 ### Questions
-   * What's the difference between an area and a terrain?
-   * How do terrains influence movement?
+   * How do we use bodies to define space while also allowing bodies to interact with a space without changing it?
 
 ### In-class
    * [Kazimir Malevich](https://drive.google.com/drive/folders/0B_lnhZP0dCt8ek8wbVRzM18wcnM?usp=sharing)
    * Floorplans: Quaker Meeting House v. Catholic Cathedral | House of Commons v. U.S. Congress House of Representatives
-   * Interacting with Areas and Terrains
-      * Circles, Triangles, Squares
-      * Grids
-      * Voronoi
-      * Noise Field
-   * Defining Areas and Terrains with Bodies
-      * Ways to define areas and terrains
-   * Resources
-      * [Drawing a grid with nested for loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
-      * [Voronoi library for p5.js](https://github.com/Dozed12/p5.voronoi)
-      * [2D Noise field](https://www.youtube.com/watch?v=ikwNrFvnL3g)
+   * Interactive Divisions, Boundaries and Areas
+      * Ways to calculate divisions / boundaries / areas (Tutorial coming soon)
    * Final Project Circle
+   * Hello Projection Mapping: The Code (Tutorial coming soon)
 
 
 ## Project Development: Weeks 9, 10, 11
