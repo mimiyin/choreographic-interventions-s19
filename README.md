@@ -282,7 +282,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Interacting with Divisions / Boundaries / Areas / Terrains
       * [Moving Bisect](http://alpha.editor.p5js.org/embed/HJIMl-wjg)
       * [Growing Circle](http://alpha.editor.p5js.org/embed/Bk6pMtLcG)
-      * [Grid](https://editor.p5js.org/mimi/embed/SkHhftI9M)
+      * [Grid](https://editor.p5js.org/move.mimi/sketches/rkqzUaPfN)
    * Hello Projection Mapping: [The Set-up Tutorial](https://docs.google.com/document/d/1AfvvrWhMHGnw0MrYqgiqzsV0DenL0p5vWmfQXM3Jp2U/edit?usp=sharing)
 
 ### Assignment
@@ -299,6 +299,10 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Floorplans: Quaker Meeting House v. Catholic Cathedral | House of Commons v. U.S. Congress House of Representatives
    * Interactive Divisions, Boundaries and Areas
       * Ways to calculate divisions / boundaries / areas | [Tutorial]([Tutorial](https://docs.google.com/document/d/1NkRgb56ZfhYTfEWJeDP13mSJaFOxf3_zd28EpROFdyM/edit?usp=sharing))
+      * Watch [Videos 1-3: Transformations](https://www.youtube.com/watch?v=o9sgjuh-CBM&list=PLRqwX-V7Uu6ZmA-d3D0iFIvgrB5_7kB8H) | [Video 9.22: Drawing Custom Shapes](https://www.youtube.com/watch?v=76fiD5DvzeQ)
+      * [3 Ways To Divide](https://editor.p5js.org/move.mimi/sketches/B19tAALGV)
+      * [3 Boundaries](https://editor.p5js.org/move.mimi/sketches/r1oBxkPMV)
+      * [Semi-exclusionary Square](https://editor.p5js.org/move.mimi/sketches/r186x1Dz4)
    * Final Project Circle
    * Hello Projection Mapping: The Code (Tutorial coming soon)
 
