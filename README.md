@@ -282,7 +282,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Moving Bisect](http://alpha.editor.p5js.org/embed/HJIMl-wjg)
       * [Growing Circle](http://alpha.editor.p5js.org/embed/Bk6pMtLcG)
       * [Grid](https://editor.p5js.org/mimi/embed/SkHhftI9M)
-   * Hello Projection Mapping: The Set-up (Tutorial coming soon)
+   * Hello Projection Mapping: [The Set-up Tutorial](https://docs.google.com/document/d/1AfvvrWhMHGnw0MrYqgiqzsV0DenL0p5vWmfQXM3Jp2U/edit?usp=sharing)
 
 ### Assignment
    * Complete [Chapter 3.4-3.5](https://docs.google.com/document/d/16GRMBthdGza-gdJMk5kWmJ7YWrDQK6pNZM6FWhlyQhw/edit?usp=sharing) of the Workbook on Terrains
