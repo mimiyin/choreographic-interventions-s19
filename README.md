@@ -128,8 +128,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ### Assignment: Study No. 1 Random Pathways
    * Choreograph a 15-second generative random pathway. (You may either write your own code or use one of the examples.) At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about the linear pathways that are baked into Random Pathways.
-      * Remember aspect ratio of the floor projection: 2400 x 1920 or 5:4 or 1200 x 960 on your laptop.
-      * All of your motion should be pegged to width and height of the window otherwise your speeds will all off.
+      * Remember aspect ratio of the floor projection: 2400 x 1920 or 5:4 or 1200 x 960 on your laptop. So you will need to [scaling your code to the floor projection](https://editor.p5js.org/move.mimi/sketches/HJQ_55mG4)
       * If you wrote code, post a link to it here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
    * Complete [Chapter 1.4-1.5](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
@@ -184,7 +183,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * [Phantom Limb Effect](https://en.wikipedia.org/wiki/Phantom_limb)
       * Kinect
-         * [Hello Kinect Tutorial](https://docs.google.com/document/d/1RjHyUy2HQDHJuLMlnmqD5LpAzUC68HW154YJvyOQnkA/edit?usp=sharing)
+         * [Hello Kinect Tutorial](https://docs.google.com/document/d/1HrrNaOElv_dlVhkSGX1HxrUk4yp9yb48253uWurIEKE/edit?usp=sharing)
          * [Kinect Skeleton with Bones](https://editor.p5js.org/move.mimi/sketches/B1K5tsmM4)
 
 ### Assignment
@@ -255,7 +254,9 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Kinect2 Examples for Processing Java on PC](https://drive.google.com/open?id=1g3RyZycZVA3hD2sH1Q2rVUXjGyct9qnZ)
 
 ### Assignment: Study No. 4 Mirror Dance
-   * Pick a mirror. Create a 30s dance to it. Think about the dance that happens in the mirror and on the body as two separate dances. Which is more interesting?
+   * Work in pairs. Pick a mirror. Create a 30s dance to it. Think about the dance that happens in the mirror and on the body as two separate dances. Which is more interesting? You should both be able to do the dance. Document it and post a link to your video on the Assignments page.
+      * [Hello Kinect Tutorial for p5.js sketches](https://docs.google.com/document/d/1HrrNaOElv_dlVhkSGX1HxrUk4yp9yb48253uWurIEKE/edit?usp=sharing)
+      * [How to run Processing examples for Windows PC](https://docs.google.com/document/d/1uOnxJmxBUt-DNF7opgRDzD8m3_yUFHatE2wG8Oyyrnw/edit?usp=sharing)
    * Watch: Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
      * What are all the ways in which Kylian is working with space? How are the spaces defined?
      * Why angular spaces? Why sharp edges? How would it be different if he used more traditional spotlights?
