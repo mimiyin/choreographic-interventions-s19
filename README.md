@@ -128,9 +128,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ### Assignment: Study No. 1 Random Pathways
    * Choreograph a 15-second generative random pathway. (You may either write your own code or use one of the examples.) At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about the linear pathways that are baked into Random Pathways.
-      * Remember the aspect ratio of the floor projection: 2400 x 1920 or 5:4 or 1200 x 960 on your laptop. So you will need to [scale your code to the floor projection](https://editor.p5js.org/move.mimi/sketches/HJQ_55mG4)
-      * For more information: watch [Videos 1-3: Transformations](https://www.youtube.com/watch?v=o9sgjuh-CBM&list=PLRqwX-V7Uu6ZmA-d3D0iFIvgrB5_7kB8H)
-      * If you wrote code, post a link to it here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
+      * We are using 2 slightly overlapping projectors, so you will need to scale your code to the floor projection AND account for the overlap. [Tutorial](https://docs.google.com/document/d/19ryU_13Rxxxa-9NO0dOu3yNXkBJ2MEhxxA1wJZ0MqzE/edit?usp=sharing) | [Code]( https://editor.p5js.org/move.mimi/sketches/HJQ_55mG4)
+      * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
    * Complete [Chapter 1.4-1.5](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
 
