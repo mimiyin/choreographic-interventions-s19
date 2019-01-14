@@ -19,7 +19,7 @@ Because course topics are organized around movement concepts, technical topics w
 - Skeletons, Depth Maps and Contours
 - 2D v. 3D
 - Mapping values
-- Working with position versus velocity of movement
+- Working with position versus speed of movement
 - Position tracking
 - 2D Projection mapping
 - Computational approaches to choreographing pathways of motion
@@ -206,13 +206,13 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Substance improv.
    * Hooking up generative pathways to distance and velocity.
       * Calculating the distance between joints.
-      * Calculating velocity of movement.
+      * Calculating speed of movement.
    * Resources
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * Examples
          * [Distance between joints](https://editor.p5js.org/move.mimi/sketches/rJENqsmGV)
-         * [Velocity](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
-         * [Velocities](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
+         * [Single Joint Speed](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
+         * [Multiple Joint Speeds](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
 
 #### Assignment: Study No. 3 Interactive pathways.
    * Re-work one of your generative pathways to be interactive.
@@ -325,7 +325,7 @@ To accomplish this, the class facilitates a semester-long collaboration between 
 
 Using computer vision and visual media, we will look at directing both how people move (quality of movement) as well as where they move (pathways and spatial relationships).
 
-We will evaluate the strengths and weaknesses of the various sensing technologies available to us today. How wide is the gulf between what we can see and feel (strength, hardness, contortion) and what a computer can see and interpret (locations, contours, velocity, acceleration)? Class time will be split between movement exercises, playing with examples and deconstructing code.
+We will evaluate the strengths and weaknesses of the various sensing technologies available to us today. How wide is the gulf between what we can see and feel (strength, hardness, contortion) and what a computer can see and interpret (locations, contours, velocity)? Class time will be split between movement exercises, playing with examples and deconstructing code.
 
 The class will culminate in a final showing of student work.
 
