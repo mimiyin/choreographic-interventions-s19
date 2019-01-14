@@ -204,7 +204,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 ### In-class
    * Re-architecture improv.
    * Substance improv.
-   * Hooking up generative pathways to distance and velocity.
+   * Hooking up generative pathways to distance and speed.
       * Calculating the distance between joints.
       * Calculating speed of movement.
    * Resources
