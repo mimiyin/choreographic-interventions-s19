@@ -127,7 +127,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * Random Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://editor.p5js.org/embed/ByBuJtIEz)
 
 ### Assignment: Study No. 1 Random Pathways
-   * Choreograph a 15-second generative random pathway. (You may either write your own code or use one of the examples.) At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about the linear pathways that are baked into Random Pathways.
+   * Choreograph a 15 - 180 second generative random pathway. (You may either write your own code or use one of the examples.) At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about the linear pathways that are baked into Random Pathways.
+      * How to run floor examples. [Tutorial](https://docs.google.com/document/d/1v2x_LoNRcIgxdT60D9pFB2P_TtZ8J1OCHYD9HvUfCIs/edit?usp=sharing)
       * We are using 2 slightly overlapping projectors, so you will need to scale your code to the floor projection AND account for the overlap. [Tutorial](https://docs.google.com/document/d/19ryU_13Rxxxa-9NO0dOu3yNXkBJ2MEhxxA1wJZ0MqzE/edit?usp=sharing) | [Code]( https://editor.p5js.org/move.mimi/sketches/HJQ_55mG4)
       * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
    * Complete [Chapter 1.4-1.5](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
@@ -162,7 +163,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Pina Bausch: La Prima Vez](https://www.youtube.com/watch?v=mrHt6Ob9-3A)
 
 ### Assignment: Study No. 2 Noisy and Circular Pathways
-   * Choreograph a 15-second generative circular pathway in code. At least 1 parameter need to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about when a circular pathway starts to feel like noise.
+   * Choreograph a 15 - 180 second generative circular pathway in code. It should be recognizably "circular" movement. (Don't let it devolve into noise.) At least 1 parameter must change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about when a circular pathway starts to feel like noise.
 
    ***
 
