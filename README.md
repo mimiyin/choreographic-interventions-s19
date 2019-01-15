@@ -58,8 +58,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Drawing a Line](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez)
       * [Linear Pathway](http://editor.p5js.org/move.mimi/sketches/rJWBguUNf)
       * [Linear Pathway - Deconstructed](http://editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
-      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG) | [Fullscreen](http://editor.p5js.org/embed/ByQxNn8NG)
-      * Kinect Skeleton - Draw Trails: [Code](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4) | [Fullscreen](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
+      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG)
+      * Kinect Skeleton - Draw Trails: [Code](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
 
 ### Assignment
    * [Watch videos 1-9](https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)(111 minutes)
@@ -84,8 +84,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Drawing Lines](http://editor.p5js.org/move.mimi/sketches/ByPtNLI4z) | [Fullscreen](http://editor.p5js.org/embed/ByPtNLI4z) | 1-Mode-At-A-Time: [0](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez) | [1](http://editor.p5js.org/move.mimi/sketches/HyNmKKL4f) | [2](http://editor.p5js.org/move.mimi/sketches/SkEk9KUNM) | [3](http://editor.p5js.org/move.mimi/sketches/ByPfqt84f)
       * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Fullscreen](http://editor.p5js.org/embed/H1flrLLVG)
       * [Kinect Skeleton](http://editor.p5js.org/move.mimi/sketches/rJPcXh84z)
-      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG) | [Fullscreen](http://editor.p5js.org/embed/ByQxNn8NG)
-      * Kinect Skeleton - Draw Trails: [Code](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4) | [Fullscreen](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
+      * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG)
+      * Kinect Skeleton - Draw Trails: [Code](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
 
 ### Assignment
    * For background on approaches to movement improvisation:
@@ -211,8 +211,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * Examples
          * [Distance between joints](https://editor.p5js.org/move.mimi/sketches/rJENqsmGV)
-         * [Single Joint Speed](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
-         * [Multiple Joint Speeds](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
+         * [Speed of joint](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
+         * [Speeds of joints](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
 
 #### Assignment: Study No. 3 Interactive pathways.
    * Re-work one of your generative pathways to be interactive.
