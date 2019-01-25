@@ -54,6 +54,9 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 ## Week 0: Introduction @Barnard W + F 12-1:30PM
    * Introduction to Computation and Interaction through Movement
    * Cartesian Plane, Linear Motion, Drawing with the Body with the Kinect
+   * Resources
+      * [Ballet Floor Patterns](https://www.google.com/search?q=ballet+choreography+floor+patterns&tbs=rimg:CaSoyv0aXWo3Ijh72ROhKuXMGUx3xbXsB_14rm8ZYzpknpDQ-75QEPYJk7uYcFDq0m2yRZOtszD0ba1CIOL5uBHUroyoSCXvZE6Eq5cwZEUcOebFYpO65KhIJTHfFtewH_1isR_18xNlr8FXPAqEgmbxljOmSekNBFhfRaa_1-gyGioSCT7vlAQ9gmTuEezfSXYJt1SuKhIJ5hwUOrSbbJERw_1Bykue1YPAqEglk62zMPRtrUBHF4LtvQWXXnyoSCYg4vm4EdSujEZGA9yyJ0QsV,isz:l&tbm=isch&source=lnt&sa=X&ved=0ahUKEwi_iueEpYngAhWoVN8KHSFPAN8QpwUIIA&biw=1321&bih=767&dpr=2#imgrc=lVU5krsz5qXwUM:)
+      * [Ghostcatching by Bill T. Jones - 1999](https://www.youtube.com/watch?v=aL5w_b-F8ig)
    * Examples
       * [Linear Pathway](http://editor.p5js.org/move.mimi/sketches/rJWBguUNf)
       * [Linear Pathway - Deconstructed](http://editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
