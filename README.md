@@ -55,9 +55,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Introduction to Computation and Interaction through Movement
    * Cartesian Plane, Linear Motion, Drawing with the Body with the Kinect
    * Examples
-      * [Drawing a Line](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez)
       * [Linear Pathway](http://editor.p5js.org/move.mimi/sketches/rJWBguUNf)
       * [Linear Pathway - Deconstructed](http://editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
+      * [Drawing a Line](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez)
+      * [Drawing Expressive Lines](https://editor.p5js.org/move.mimi/sketches/ByPtNLI4z)
+      * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG)
       * Kinect Skeleton - Draw Lines - 4 modes: [Code](http://editor.p5js.org/move.mimi/sketches/ByQxNn8NG)
       * Kinect Skeleton - Draw Trails: [Code](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
 
