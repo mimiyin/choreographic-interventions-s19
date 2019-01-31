@@ -87,7 +87,6 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Walking improv.
    * Drawing with the mouse. Drawing with the body.
    * Examples:
-      * [Linear Pathway - Deconstructed](http://editor.p5js.org/move.mimi/sketches/rJnOzuI4M)
       * [Drawing Lines](http://editor.p5js.org/move.mimi/sketches/ByPtNLI4z) | [Fullscreen](http://editor.p5js.org/embed/ByPtNLI4z) | 1-Mode-At-A-Time: [0](http://editor.p5js.org/move.mimi/sketches/SJwTOF8Ez) | [1](http://editor.p5js.org/move.mimi/sketches/HyNmKKL4f) | [2](http://editor.p5js.org/move.mimi/sketches/SkEk9KUNM) | [3](http://editor.p5js.org/move.mimi/sketches/ByPfqt84f)
       * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Fullscreen](http://editor.p5js.org/embed/H1flrLLVG)
       * [Kinect Skeleton](http://editor.p5js.org/move.mimi/sketches/rJPcXh84z)
