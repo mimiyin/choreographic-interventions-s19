@@ -129,7 +129,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * Linear Pathway with Controls: [Code](https://editor.p5js.org/move.mimi/sketches/rkMpbedVM) | [Fullscreen](https://editor.p5js.org/move.mimi/embed/rkMpbedVM)
       * Random
          * [Random Pathway](http://editor.p5js.org/move.mimi/sketches/HkL0VOUVf)
-         * [Graphing Random](http://editor.p5js.org/move.mimi/sketches/SkwF9OLEM)
+         * [Graphing Random](https://editor.p5js.org/move.mimi/sketches/S1yCHuU4M)
          * [Random Intervals](http://alpha.editor.p5js.org/move.mimi/sketches/SkwF9OLEM) | [Fullscreen](http://alpha.editor.p5js.org/move.mimi/embed/SkwF9OLEM)
          * Random Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://editor.p5js.org/embed/ByBuJtIEz)
 
