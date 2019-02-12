@@ -135,7 +135,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * Random Pathway with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/ByBuJtIEz) | [Fullscreen](http://editor.p5js.org/embed/ByBuJtIEz)
 
 ### Assignment: Study No. 1 Random Pathways
-   * Choreograph a 15 - 180 second generative random pathway that contains 2 ideas. (You may either write your own code or use the interactive example.) At least 1 parameter needs to change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Discuss possibilities for how people might interact with your pathway. Think about the linear pathways that are baked into Random Pathways.
+   * Choreograph a 15 - 180 second generative random pathway that contains 2 ideas. (You may either write your own code or use the interactive example.) 
+      * At least 1 parameter needs to change over time. 
+      * Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. 
+      * Think about the linear pathways that are baked into Random Pathways.
+      * Discuss and **diagram** choreographic possibilities for how to interact with your pathway. 
       * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
    * Complete [Chapter 1.4-1.5](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
