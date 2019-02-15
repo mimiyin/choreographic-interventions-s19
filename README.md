@@ -166,14 +166,20 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Circular Pathway](http://editor.p5js.org/move.mimi/sketches/rJSP_5ING)
          * [Circle with Tangents](http://editor.p5js.org/move.mimi/sketches/r1HaDcLEz)
          * [Circles and Sin/Cos](http://editor.p5js.org/move.mimi/sketches/rJ_vtcUNz)
-         * Circular with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/Sy7iKoIEf) | [Code](http://editor.p5js.org/embed/Sy7iKoIEf)
+         * Circular with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/Sy7iKoIEf) | [Fullscreen](http://editor.p5js.org/embed/Sy7iKoIEf)
          * [Polar Roses](https://en.wikipedia.org/wiki/Rose_(mathematics))
          * [Polar Rose-ish](http://editor.p5js.org/move.mimi/sketches/HJTDNYKVf)
          * [Anne Teresa de Keersmaeker: Violin Fase](https://www.youtube.com/watch?v=i36Qhn7NhoA)
          * [Pina Bausch: La Prima Vez](https://www.youtube.com/watch?v=mrHt6Ob9-3A)
 
 ### Assignment: Study No. 2 Noisy and Circular Pathways
-   * Choreograph a 15 - 180 second generative circular pathway in code. It should be recognizably "circular" movement. (Don't let it devolve into noise.) At least 1 parameter must change over time. Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Think about when a circular pathway starts to feel like noise.
+   * Choreograph a 15 - 180 second generative circular pathway in code with 2 ideas. It should be recognizably "circular" movement.
+      * At least 1 parameter needs to change over time. 
+      * Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Use the [Circular Pathway with Controls](http://editor.p5js.org/embed/Sy7iKoIEf) to explore ideas.
+      * Think about how "noisy" and "random" the pathway can get before it loses it's circularity.
+      * Discuss and **diagram** choreographic possibilities for how to interact with your pathway. 
+      * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-3-circular-pathways)
+   * Complete [1.6](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
    ***
 
