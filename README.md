@@ -140,7 +140,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Use the [Random Pathway with Controls](http://editor.p5js.org/embed/ByBuJtIEz) to explore ideas.
       * Think about the linear pathways that are baked into Random Pathways.
       * Discuss and **diagram** choreographic possibilities for how to interact with your pathway. 
-      * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-2-random-pathways)
+      * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assignments#week-2-random-pathways)
    * Complete [Chapter 1.4-1.5](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
 
@@ -178,7 +178,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Work in pairs. You should each choreograph a pathway on your own and then come together to create your final choreography. Use the [Circular Pathway with Controls](http://editor.p5js.org/embed/Sy7iKoIEf) to explore ideas.
       * Think about how "noisy" and "random" the pathway can get before it loses it's circularity.
       * Discuss and **diagram** choreographic possibilities for how to interact with your pathway. 
-      * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-3-circular-pathways)
+      * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assignments#week-3-circular-pathways)
    * Complete [1.5a](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
    ***
