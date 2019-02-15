@@ -179,7 +179,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Think about how "noisy" and "random" the pathway can get before it loses it's circularity.
       * Discuss and **diagram** choreographic possibilities for how to interact with your pathway. 
       * Post a link to the code you will demo with here: [Assignment Page](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assisgnments#week-3-circular-pathways)
-   * Complete [1.6](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
+   * Complete [1.5a](https://docs.google.com/document/d/1xRnvFgyshha6Tb7eTgs2HTDty515DIfkWb6leiZ2j2U/edit?usp=sharing) of the Workbook
 
    ***
 
