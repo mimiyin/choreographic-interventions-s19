@@ -203,14 +203,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ### Assignment
    * Read Chapter 7 of Dynamic Alignment: [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [PDF](https://drive.google.com/file/d/0B_lnhZP0dCt8LVZMRXlqNFFQaFk/view?usp=sharing)
-   * Complete sections 2.0-2.3 of [Chapter 2 of the Workbook](https://docs.google.com/document/d/1O8ldKa-SI4_B8D1vVtIItW5kB_nzZJpxwO_7Evi6iCU/edit?usp=sharing)
-   * Bring a piece of clothing that alters (confines, expands, distorts) your body to class next week. Look here for inspiration:
-      * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
-      * [Martha Graham: Lamentations and Satyric Song](https://www.youtube.com/watch?v=npSXDzqwFJg)
-      * [Issey Miyake and Irving Penn](https://www.google.com/search?biw=1291&bih=898&tbm=isch&sa=1&ei=XzCQWpG0N8zb5gLR1KeIBg&q=issey+miyake+irving+penn&oq=issey+miyake+irving+penn&gs_l=psy-ab.3..0j0i24k1.9304.13950.0.14077.13.5.0.8.8.0.67.293.5.5.0....0...1c.1.64.psy-ab..0.13.309...0i13k1.0.vR3PuPm3nNg)
-      * [David Byrne: Stop Making Sense](https://youtu.be/av3j4WStj2A?t=180)
-      * Rei Kawakubo: Shifting your center of gravity. [Scenario by Merce Cunningham](https://www.youtube.com/watch?v=MBlzeehZIeE)
-
+   * Complete sections 2.0-2.2 of [Chapter 2 of the Workbook](https://docs.google.com/document/d/1O8ldKa-SI4_B8D1vVtIItW5kB_nzZJpxwO_7Evi6iCU/edit?usp=sharing)
+   * Collect 10 very different representations of the human form. [Add them to this folder on Google Drive.](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
 
 ***
 
@@ -235,7 +229,13 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 #### Assignment: Study No. 3 Interactive pathways.
    * Re-work one of your generative pathways to be interactive.
-   * Complete sections 2.4 of [Chapter 2 of the Workbook](https://docs.google.com/document/d/1O8ldKa-SI4_B8D1vVtIItW5kB_nzZJpxwO_7Evi6iCU/edit?usp=sharing)
+   * Complete sections 2.3-2.4 of [Chapter 2 of the Workbook](https://docs.google.com/document/d/1O8ldKa-SI4_B8D1vVtIItW5kB_nzZJpxwO_7Evi6iCU/edit?usp=sharing)
+   * Bring a piece of clothing that alters (confines, expands, distorts) your body to class next week. Look here for inspiration:
+      * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
+      * [Martha Graham: Lamentations and Satyric Song](https://www.youtube.com/watch?v=npSXDzqwFJg)
+      * [Issey Miyake and Irving Penn](https://www.google.com/search?biw=1291&bih=898&tbm=isch&sa=1&ei=XzCQWpG0N8zb5gLR1KeIBg&q=issey+miyake+irving+penn&oq=issey+miyake+irving+penn&gs_l=psy-ab.3..0j0i24k1.9304.13950.0.14077.13.5.0.8.8.0.67.293.5.5.0....0...1c.1.64.psy-ab..0.13.309...0i13k1.0.vR3PuPm3nNg)
+      * [David Byrne: Stop Making Sense](https://youtu.be/av3j4WStj2A?t=180)
+      * Rei Kawakubo: Shifting your center of gravity. [Scenario by Merce Cunningham](https://www.youtube.com/watch?v=MBlzeehZIeE)
 
 ***
 
