@@ -356,7 +356,7 @@ As a result, there is no pre-requisite for dance and no pre-requisite for code.
 
 ## Evaluation
 - 40% for showing up (on time!) and participating with curiosity and enthusiasm.
-- 15% for each topic study.
+- 15% for each topic study. (Pathways and Body)
 - 30% for the final project.
 - More than 2 unexcused absences qualifies you for a failure.
 - 2 lateness of 15 minutes or more qualifies as 1 unexcused absence.
