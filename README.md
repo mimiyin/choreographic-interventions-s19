@@ -168,7 +168,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Circles and Sin/Cos](http://editor.p5js.org/move.mimi/sketches/rJ_vtcUNz)
          * Circular with Controls: [Code](http://editor.p5js.org/move.mimi/sketches/Sy7iKoIEf) | [Fullscreen](http://editor.p5js.org/embed/Sy7iKoIEf)
          * [Polar Roses](https://en.wikipedia.org/wiki/Rose_(mathematics))
-         * [Polar Rose-ish](http://editor.p5js.org/move.mimi/sketches/HJTDNYKVf)
+         * [Polar Rose-ish](http://editor.p5js.org/move.mimi/sketches/HJTDNYKVf) | [Polar Rose Shape](https://editor.p5js.org/move.mimi/sketches/gO8ew1q-Y)
          * [Anne Teresa de Keersmaeker: Violin Fase](https://www.youtube.com/watch?v=i36Qhn7NhoA)
          * [Pina Bausch: La Prima Vez](https://www.youtube.com/watch?v=mrHt6Ob9-3A)
 
