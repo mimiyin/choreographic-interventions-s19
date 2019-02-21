@@ -203,6 +203,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ### Assignment
    * Read Chapter 7 of Dynamic Alignment: [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [PDF](https://drive.google.com/file/d/0B_lnhZP0dCt8LVZMRXlqNFFQaFk/view?usp=sharing)
+   * Watch [Forsythe Technique Videos](https://www.youtube.com/user/GrandpaSafari/videos): They range from 10s to 1 minute. Very short!
+      * 16 videos that start with Forsythe-Writing
+      * 23 videos that start with Forsythe-Lines
+      * [Avoidance](https://www.youtube.com/watch?v=cqGyFiEXXIQ)
+      * [Line](https://www.youtube.com/watch?v=aOd0PtgS8KU)
    * Complete sections 2.0-2.2 of [Chapter 2 of the Workbook](https://docs.google.com/document/d/1O8ldKa-SI4_B8D1vVtIItW5kB_nzZJpxwO_7Evi6iCU/edit?usp=sharing)
    * Collect 10 very different representations of the human form. [Add them to this folder on Google Drive.](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
 
