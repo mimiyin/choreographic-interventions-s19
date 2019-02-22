@@ -197,6 +197,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Hello Kinect + Kinectron
    * Hello Kinect Skeleton
    * Resources
+      * [Camera CheatSheet](https://docs.google.com/spreadsheets/d/1CwsOeIQtEZOAX-2ZJ3fOwTj-WpvSO4Er8JB7zTxFc34/edit?usp=sharing)
       * Kinect
          * [Hello Kinect Tutorial](https://docs.google.com/document/d/1HrrNaOElv_dlVhkSGX1HxrUk4yp9yb48253uWurIEKE/edit?usp=sharing)
          * [Kinect Skeleton with Bones](https://editor.p5js.org/move.mimi/sketches/B1K5tsmM4)
