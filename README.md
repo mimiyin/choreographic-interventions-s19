@@ -41,6 +41,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 - [Coding Rainbow](https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [Atom Editor](https://github.com/mimiyin/sense-me-move-me/wiki/Atom)
 - [Kinectron](https://github.com/lisajamhoury/kinectron)
+- [Delicode NI Mate](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Delicode-NI-Mate)
 - [The Nature of Code Book](http://natureofcode.com/book/)
 
 ### Dance + Movement Resources
