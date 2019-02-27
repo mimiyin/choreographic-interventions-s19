@@ -229,6 +229,9 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Calculating the distance between joints.
       * Calculating speed of movement.
    * Resources
+      * Videos
+         * Heartbeat by Sarah Rudner: [About](https://www.youtube.com/watch?v=1CpPPrjjVNI) | [Full Piece](https://www.youtube.com/watch?v=eAVwr-BwGCk)
+         * Richard III: [Trailer](https://www.youtube.com/watch?v=6f211TcO1BA) | [Synopsis](https://en.wikipedia.org/wiki/Richard_III_(play)#Synopsis) | [On Deformations](https://www.youtube.com/watch?v=e2DfwMFr2e8&feature=youtu.be&t=195) (until about 7:45)
       * Examples
          * [Get all the code in 1 folder](https://drive.google.com/file/d/1npCeofi5jiroG5WVlnGUURlp0ExGqOU0/view?usp=sharing)
          * [Switching Joints](https://editor.p5js.org/move.mimi/sketches/r9tbdwe30) | [Custom Joints List](https://editor.p5js.org/move.mimi/sketches/_YbQUQeLE)
