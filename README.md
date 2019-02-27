@@ -230,6 +230,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Calculating speed of movement.
    * Resources
       * Examples
+         * [Switching Joints](https://editor.p5js.org/move.mimi/sketches/r9tbdwe30) | [Custom Joints List](https://editor.p5js.org/move.mimi/sketches/_YbQUQeLE)
+         * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Drawing a Trail with Joint](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
          * [Distance between joints](https://editor.p5js.org/move.mimi/sketches/rJENqsmGV)
          * [Speed of joint](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
          * [Speeds of joints](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
