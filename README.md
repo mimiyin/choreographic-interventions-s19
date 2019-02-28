@@ -229,16 +229,16 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Calculating the distance between joints.
       * Calculating speed of movement.
    * Resources
-      * Videos
-         * Heartbeat by Sarah Rudner: [About](https://www.youtube.com/watch?v=1CpPPrjjVNI) | [Full Piece](https://www.youtube.com/watch?v=eAVwr-BwGCk)
-         * Richard III: [Trailer](https://www.youtube.com/watch?v=6f211TcO1BA) | [Synopsis](https://en.wikipedia.org/wiki/Richard_III_(play)#Synopsis) | [On Deformations](https://www.youtube.com/watch?v=e2DfwMFr2e8&feature=youtu.be&t=195) (until about 7:45)
-      * Examples
-         * [Get all the code in 1 folder](https://drive.google.com/file/d/1npCeofi5jiroG5WVlnGUURlp0ExGqOU0/view?usp=sharing)
-         * [Switching Joints](https://editor.p5js.org/move.mimi/sketches/r9tbdwe30) | [Custom Joints List](https://editor.p5js.org/move.mimi/sketches/_YbQUQeLE)
-         * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Drawing a Trail with Joint](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
-         * [Distance between joints](https://editor.p5js.org/move.mimi/sketches/rJENqsmGV)
-         * [Speed of joint](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
-         * [Speeds of joints](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
+      * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
+      * Heartbeat by Sarah Rudner: [About](https://www.youtube.com/watch?v=1CpPPrjjVNI) | [Full Piece](https://www.youtube.com/watch?v=eAVwr-BwGCk)
+      * Richard III: [Trailer](https://www.youtube.com/watch?v=6f211TcO1BA) | [Synopsis](https://en.wikipedia.org/wiki/Richard_III_(play)#Synopsis) | [On Deformations](https://www.youtube.com/watch?v=e2DfwMFr2e8&feature=youtu.be&t=195) (until about 7:45)
+   * Examples
+      * [Get all the code in 1 folder](https://drive.google.com/file/d/1npCeofi5jiroG5WVlnGUURlp0ExGqOU0/view?usp=sharing)
+      * [Switching Joints](https://editor.p5js.org/move.mimi/sketches/r9tbdwe30) | [Custom Joints List](https://editor.p5js.org/move.mimi/sketches/_YbQUQeLE)
+      * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Drawing a Trail with Joint](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
+      * [Distance between joints](https://editor.p5js.org/move.mimi/sketches/rJENqsmGV)
+      * [Speed of joint](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
+      * [Speeds of joints](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
 
 #### Assignment: Study No. 3 Interactive pathways.
    * Re-work one of your generative pathways to be interactive.
