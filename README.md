@@ -231,6 +231,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Resources
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * Heartbeat by Sarah Rudner: [About](https://www.youtube.com/watch?v=1CpPPrjjVNI) | [Full Piece](https://www.youtube.com/watch?v=eAVwr-BwGCk)
+      * [Synchronous Objects](https://synchronousobjects.osu.edu/)
+      * [Getting out of Fase](https://youtu.be/RTke1tQztpQ?t=185)
    * Examples
       * [Get all the code in 1 folder](https://drive.google.com/file/d/1npCeofi5jiroG5WVlnGUURlp0ExGqOU0/view?usp=sharing)
       * [Switching Joints](https://editor.p5js.org/move.mimi/sketches/r9tbdwe30) | [Custom Joints List](https://editor.p5js.org/move.mimi/sketches/_YbQUQeLE)
