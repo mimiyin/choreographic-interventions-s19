@@ -241,8 +241,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Speed of joint](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
       * [Speeds of joints](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
 
-#### Assignment: Study No. 3 Interactive pathways.
-   * Re-work one of your generative pathways to be interactive.
+#### Assignment: Study No. 3 The Joint Dance.
+   * Hook up the joints of the skeleton to interactive media. You can continue to work with pathways or explore other mediums: video, sound, text.
    * Bring a piece of clothing that alters (confines, expands, distorts) your body to class next week. Look here for inspiration:
       * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
       * [Martha Graham: Lamentations and Satyric Song](https://www.youtube.com/watch?v=npSXDzqwFJg)
