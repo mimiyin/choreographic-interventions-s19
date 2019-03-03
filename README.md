@@ -243,7 +243,6 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 #### Assignment: Study No. 3 Interactive pathways.
    * Re-work one of your generative pathways to be interactive.
-   * Complete sections 2.3-2.4 of [Chapter 2 of the Workbook](https://docs.google.com/document/d/1O8ldKa-SI4_B8D1vVtIItW5kB_nzZJpxwO_7Evi6iCU/edit?usp=sharing)
    * Bring a piece of clothing that alters (confines, expands, distorts) your body to class next week. Look here for inspiration:
       * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
       * [Martha Graham: Lamentations and Satyric Song](https://www.youtube.com/watch?v=npSXDzqwFJg)
