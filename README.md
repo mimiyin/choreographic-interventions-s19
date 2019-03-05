@@ -281,11 +281,12 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Tutus: Romantic v. Pancake](https://en.wikipedia.org/wiki/Tutu_(clothing))
       * Rei Kawakubo: Shifting your center of gravity. [Scenario by Merce Cunningham](https://www.youtube.com/watch?v=MBlzeehZIeE)
       * Examples:
+         * [Hello Processing](https://docs.google.com/document/d/156GyF3nPfyVun2Jt2wyNer7sVHBoriRH25RgsQ_-l5o/edit?usp=sharing)
          * [Moving Bezier](http://alpha.editor.p5js.org/mimi/sketches/Hkbojc0Ie)
          * [Slit-scan Video](https://editor.p5js.org/dansakamoto/sketches/H1s4fymqQ)
          * [Skeleton with 2D Shapes](https://editor.p5js.org/move.mimi/sketches/rk54oI0EG)
          * [Skeleton with 3D Shapes](https://editor.p5js.org/move.mimi/sketches/HkWvsLR4z)
-         * [Kinect2 Examples for Processing Java on PC](https://drive.google.com/open?id=1g3RyZycZVA3hD2sH1Q2rVUXjGyct9qnZ)
+         * [Kinect2 Examples for Processing](https://drive.google.com/open?id=1g3RyZycZVA3hD2sH1Q2rVUXjGyct9qnZ)
 
 ### Assignment: Study No. 4 Mirror Dance
    * Work in pairs. Pick a mirror. Create a 30s dance to it. Think about the dance that happens in the mirror and on the body as two separate dances. Which is more interesting? You should both be able to do the dance. Document it and post a link to your video on the Assignments page.
