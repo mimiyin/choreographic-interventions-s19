@@ -244,7 +244,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Speeds of joints](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
 
 #### Assignment: Study No. 3 The Joint Dance.
-   * Hook up the joints of the skeleton to interactive media. You can continue to work with pathways or explore other mediums: video, sound, text.
+   * Hook up the joints of the skeleton to interactive media. You can continue to work with pathways or explore other mediums: video, sound, text. [Upload your code here](https://drive.google.com/drive/folders/1K9PzgRpF_8LOja82zmM4KGsyrltfecZD?usp=sharing)
    * Bring a piece of clothing that alters (confines, expands, distorts) your body to class next week. Look here for inspiration:
       * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
       * [Martha Graham: Lamentations and Satyric Song](https://www.youtube.com/watch?v=npSXDzqwFJg)
@@ -294,7 +294,6 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Watch: Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
      * What are all the ways in which Kylian is working with space? How are the spaces defined?
      * Why angular spaces? Why sharp edges? How would it be different if he used more traditional spotlights?
-   * Complete [Chapter 3.0-3.3](https://docs.google.com/document/d/1UQBgsK0aKmQgeI_90evKBsHhaOGN-iLdET82-cNUcIk/edit?usp=sharing) of the Workbook
 
 ***
 
@@ -319,7 +318,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Hello Projection Mapping: [The Set-up Tutorial](https://docs.google.com/document/d/1AfvvrWhMHGnw0MrYqgiqzsV0DenL0p5vWmfQXM3Jp2U/edit?usp=sharing)
 
 ### Assignment
-   * Complete [Chapter 3.4-3.5](https://docs.google.com/document/d/16GRMBthdGza-gdJMk5kWmJ7YWrDQK6pNZM6FWhlyQhw/edit?usp=sharing) of the Workbook on Terrains
+   * Complete [Chapter 3.0-3.3](https://docs.google.com/document/d/1UQBgsK0aKmQgeI_90evKBsHhaOGN-iLdET82-cNUcIk/edit?usp=sharing) of the Workbook
+
 
 ## Week 8: Space | Areas and Terrains
 
