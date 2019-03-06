@@ -282,6 +282,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Rei Kawakubo: Shifting your center of gravity. [Scenario by Merce Cunningham](https://www.youtube.com/watch?v=MBlzeehZIeE)
       * Examples:
          * [Hello Processing](https://docs.google.com/document/d/156GyF3nPfyVun2Jt2wyNer7sVHBoriRH25RgsQ_-l5o/edit?usp=sharing)
+         * [How to run Processing examples for Windows PC](https://docs.google.com/document/d/1uOnxJmxBUt-DNF7opgRDzD8m3_yUFHatE2wG8Oyyrnw/edit?usp=sharing)
          * [Moving Bezier](http://alpha.editor.p5js.org/mimi/sketches/Hkbojc0Ie)
          * [Slit-scan Video](https://editor.p5js.org/dansakamoto/sketches/H1s4fymqQ)
          * [Skeleton with 2D Shapes](https://editor.p5js.org/move.mimi/sketches/rk54oI0EG)
@@ -289,12 +290,12 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Kinect2 Examples for Processing](https://drive.google.com/open?id=1g3RyZycZVA3hD2sH1Q2rVUXjGyct9qnZ)
 
 ### Assignment: Study No. 4 Mirror Dance
-   * Work in pairs. Pick a mirror. Create a 30s dance to it. Think about the dance that happens in the mirror and on the body as two separate dances. Which is more interesting? You should both be able to do the dance. Document it and post a link to your video on the Assignments page.
-      * [Hello Kinect Tutorial for p5.js sketches](https://docs.google.com/document/d/1HrrNaOElv_dlVhkSGX1HxrUk4yp9yb48253uWurIEKE/edit?usp=sharing)
-      * [How to run Processing examples for Windows PC](https://docs.google.com/document/d/1uOnxJmxBUt-DNF7opgRDzD8m3_yUFHatE2wG8Oyyrnw/edit?usp=sharing)
+   * Work on your own. Create a slit-scan dance and perform it 2x. Screen record it. Post a link to your screen recording on the Assignments page.
+      * How to screen record: [Mac](https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac) | [Windows](https://www.onmsft.com/how-to/how-to-make-a-windows-10-screen-recording-without-installing-any-software)
+   * Complete [Chapter 3.0-3.3](https://docs.google.com/document/d/1UQBgsK0aKmQgeI_90evKBsHhaOGN-iLdET82-cNUcIk/edit?usp=sharing) of the Workbook   
    * Watch: Jiri Kylian | NDT : [Sweet Dreams](http://www.numeridanse.tv/en/video/1046_sweet-dreams)
-     * What are all the ways in which Kylian is working with space? How are the spaces defined?
-     * Why angular spaces? Why sharp edges? How would it be different if he used more traditional spotlights?
+      * What are all the ways in which Kylian is working with space? How are the spaces defined?
+      * Why angular spaces? Why sharp edges? How would it be different if he used more traditional spotlights?
 
 ***
 
@@ -318,8 +319,8 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Grid](https://editor.p5js.org/move.mimi/sketches/rkqzUaPfN)
    * Hello Projection Mapping: [The Set-up Tutorial](https://docs.google.com/document/d/1AfvvrWhMHGnw0MrYqgiqzsV0DenL0p5vWmfQXM3Jp2U/edit?usp=sharing)
 
-### Assignment
-   * Complete [Chapter 3.0-3.3](https://docs.google.com/document/d/1UQBgsK0aKmQgeI_90evKBsHhaOGN-iLdET82-cNUcIk/edit?usp=sharing) of the Workbook
+### Assignment: Dynamic Spaces
+   * Create a space that changes.
 
 
 ## Week 8: Space | Areas and Terrains
