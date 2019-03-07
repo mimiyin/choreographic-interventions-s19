@@ -202,6 +202,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Kinect
          * [Hello Kinect Tutorial](https://docs.google.com/document/d/1HrrNaOElv_dlVhkSGX1HxrUk4yp9yb48253uWurIEKE/edit?usp=sharing)
          * [Kinect Skeleton with Bones](https://editor.p5js.org/move.mimi/sketches/B1K5tsmM4)
+         * Delicode NI Mate: [Processing](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Delicode-NI-Mate) | [p5.js](https://github.com/louiselessel/CI_W5)
 
 ### Assignment
    * Read Chapter 7 of Dynamic Alignment: [Google Books](https://books.google.com/books?id=CBwV_g8DhEMC&lpg=PA2&ots=nRQ2JS3SWv&dq=dynamic%20alignment%20chapters&pg=PP1#v=onepage&q&f=false) | [PDF](https://drive.google.com/file/d/0B_lnhZP0dCt8LVZMRXlqNFFQaFk/view?usp=sharing)
@@ -240,7 +241,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Switching Joints](https://editor.p5js.org/move.mimi/sketches/r9tbdwe30) | [Custom Joints List](https://editor.p5js.org/move.mimi/sketches/_YbQUQeLE)
       * [Drawing a Trail](http://editor.p5js.org/move.mimi/sketches/H1flrLLVG) | [Drawing a Trail with Joint](https://editor.p5js.org/move.mimi/sketches/rkji-ofz4)
       * [Distance between joints](https://editor.p5js.org/move.mimi/sketches/rJENqsmGV)
-      * [Speed of joint](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4)
+      * [Speed of joint](https://editor.p5js.org/move.mimi/sketches/Byx3G3XG4) | [Speed with Multiple Skeletons](https://editor.p5js.org/move.mimi/sketches/9isHw8FNk)
       * [Speeds of joints](https://editor.p5js.org/move.mimi/sketches/SkAcS2QGE)
 
 #### Assignment: Study No. 3 The Joint Dance.
