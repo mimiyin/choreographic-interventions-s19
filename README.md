@@ -271,9 +271,12 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * The Gumby Effect: Morphing body contours.
       * 3D bodies to shift your center of gravity
    * Resources
+      * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
+      * [XYZT](https://www.am-cb.net/projets/xyzt)
+      * [XYZT Slit-Scan](https://drive.google.com/file/d/1qFksabhh8uxMgx7Kms54MrwDdcKZw5l9/view?usp=sharing)
+      * [The Echo Game](https://www.youtube.com/watch?v=Tk9tqFd5sGI)
       * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
       * [Drunk Guy In Convenience Store](https://www.youtube.com/watch?v=8M_oBYNb6UU)
-      * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * [Alexander Calder: Wire sculptures.](https://www.google.com/search?biw=1456&bih=1028&tbm=isch&sa=1&ei=FqMvXO7aO_K3ggeMpL-QCg&q=calder+wire+sculpture+body&oq=calder+wire+sculpture+body&gs_l=img.3...16593.17096..17327...0.0..0.85.308.5......1....1..gws-wiz-img.......0i30j0i5i30j0i24.HwYVBG-o5og) | [Ghostcatching by Bill T. Jones](https://www.youtube.com/watch?v=aL5w_b-F8ig)
       * [Martha Graham: Lamentations and Satyric Song](https://www.youtube.com/watch?v=npSXDzqwFJg)
       * [Issey Miyake and Irving Penn](https://www.google.com/search?biw=1291&bih=898&tbm=isch&sa=1&ei=XzCQWpG0N8zb5gLR1KeIBg&q=issey+miyake+irving+penn&oq=issey+miyake+irving+penn&gs_l=psy-ab.3..0j0i24k1.9304.13950.0.14077.13.5.0.8.8.0.67.293.5.5.0....0...1c.1.64.psy-ab..0.13.309...0i13k1.0.vR3PuPm3nNg)
