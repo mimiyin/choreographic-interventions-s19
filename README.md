@@ -290,7 +290,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Slit-scan Video](https://editor.p5js.org/dansakamoto/sketches/H1s4fymqQ)
          * [Skeleton with 2D Shapes](https://editor.p5js.org/move.mimi/sketches/rk54oI0EG)
          * [Skeleton with 3D Shapes](https://editor.p5js.org/move.mimi/sketches/HkWvsLR4z)
-         * [Kinect2 Examples for Processing](https://drive.google.com/open?id=1g3RyZycZVA3hD2sH1Q2rVUXjGyct9qnZ)
+         * [Kinect2 Examples for Processing](https://drive.google.com/drive/folders/15qNBRQ0W_6jq3gP3EzyUpGK7Nu9WvpUy?usp=sharing)
 
 ### Assignment: Study No. 4 Mirror Dance
    * Work on your own. Create a slit-scan dance and perform it 2x. Screen record it. Post a link to your screen recording on the Assignments page.
