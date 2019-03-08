@@ -275,7 +275,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [Bodies We Collected](https://drive.google.com/drive/folders/1cszYBN9mho9QzjzieQGk-Ghw-UOCBH3b?usp=sharing)
       * [XYZT](https://www.am-cb.net/projets/xyzt)
       * [XYZT Slit-Scan](https://drive.google.com/file/d/1qFksabhh8uxMgx7Kms54MrwDdcKZw5l9/view?usp=sharing)
-      * [The Echo Game](https://www.youtube.com/watch?v=Tk9tqFd5sGI)
+      * [The Echo Game](https://www.youtube.com/watch?v=Tk9tqFd5sGI) (2:14)
       * [Danse Des Masques](https://www.youtube.com/watch?v=mpOdxI1owdQ)
       * [Drunk Guy In Convenience Store](https://www.youtube.com/watch?v=8M_oBYNb6UU)
       * [Alexander Calder: Wire sculptures.](https://www.google.com/search?biw=1456&bih=1028&tbm=isch&sa=1&ei=FqMvXO7aO_K3ggeMpL-QCg&q=calder+wire+sculpture+body&oq=calder+wire+sculpture+body&gs_l=img.3...16593.17096..17327...0.0..0.85.308.5......1....1..gws-wiz-img.......0i30j0i5i30j0i24.HwYVBG-o5og) | [Ghostcatching by Bill T. Jones](https://www.youtube.com/watch?v=aL5w_b-F8ig)
