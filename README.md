@@ -319,9 +319,10 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 ### In-class
    * [Kazimir Malevich](https://drive.google.com/drive/folders/0B_lnhZP0dCt8ek8wbVRzM18wcnM?usp=sharing)
    * Interacting with Divisions / Boundaries / Areas / Terrains
-      * [Moving Bisect](http://alpha.editor.p5js.org/embed/HJIMl-wjg)
-      * [Growing Circle](http://alpha.editor.p5js.org/embed/Bk6pMtLcG)
-      * [Grid](https://editor.p5js.org/move.mimi/sketches/rkqzUaPfN)
+      * [Grid](https://editor.p5js.org/move.mimi/embed/rkqzUaPfN)
+      * [Moving Bisect](https://editor.p5js.org/move.mimi/embed/ryEOkt8cM)
+      * [Growing Circle](https://editor.p5js.org/move.mimi/embed/DTQLAvI3k)
+      * [Moving Trisect](https://editor.p5js.org/move.mimi/embed/ulK2W-T_7)
    * Hello Projection Mapping: [The Set-up Tutorial](https://docs.google.com/document/d/1AfvvrWhMHGnw0MrYqgiqzsV0DenL0p5vWmfQXM3Jp2U/edit?usp=sharing)
 
 ### Assignment: Dynamic Spaces
