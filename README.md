@@ -287,10 +287,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * Examples:
          * [Hello Processing](https://docs.google.com/document/d/156GyF3nPfyVun2Jt2wyNer7sVHBoriRH25RgsQ_-l5o/edit?usp=sharing)
          * [How to run Processing examples for Windows PC](https://docs.google.com/document/d/1uOnxJmxBUt-DNF7opgRDzD8m3_yUFHatE2wG8Oyyrnw/edit?usp=sharing)
-         * [Moving Bezier](http://alpha.editor.p5js.org/mimi/sketches/Hkbojc0Ie)
          * [Slit-scan Video](https://editor.p5js.org/dansakamoto/sketches/H1s4fymqQ)
-         * [Skeleton with 2D Shapes](https://editor.p5js.org/move.mimi/sketches/rk54oI0EG)
-         * [Skeleton with 3D Shapes](https://editor.p5js.org/move.mimi/sketches/HkWvsLR4z)
          * [Kinect2 Examples for Processing](https://drive.google.com/drive/folders/15qNBRQ0W_6jq3gP3EzyUpGK7Nu9WvpUy?usp=sharing)
 
 ### Assignment: Study No. 4 The Mirror Dance
@@ -317,6 +314,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * What's the difference between a division and a boundary?
 
 ### In-class
+   * [Moving Bezier](http://alpha.editor.p5js.org/mimi/sketches/Hkbojc0Ie)
    * [Kazimir Malevich](https://drive.google.com/drive/folders/0B_lnhZP0dCt8ek8wbVRzM18wcnM?usp=sharing)
    * Interacting with Divisions / Boundaries / Areas / Terrains
       * [Grid](https://editor.p5js.org/move.mimi/embed/rkqzUaPfN)
