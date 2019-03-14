@@ -327,7 +327,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Create a space that changes.
 
 
-## Week 8: Space | Areas and Terrains
+## Week 8: Space | Defining Space With Bodies
 
 ### Questions
    * Are defining and interacting with space the same thing?
@@ -344,7 +344,11 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [PositionTracker](https://drive.google.com/open?id=1Bdzk6oizSwnZMgEOnxxHJhxVIpTJsdzr)
    * Final Project Circle
    * Hello Projection Mapping: [The Code Tutorial](https://docs.google.com/document/d/1LRiMMuZEeP8klj9GwHv8eBclAnLrMqXvh_qrSldWehs/edit?usp=sharing)
-
+   
+### Assignment: Dynamic Spaces
+   * Fill out this survey about who you want to work with by Monday Apr 1: [ITP](https://goo.gl/forms/D9ZJyq3d4DDuAAnJ2) | [Barnard/Columbia](https://goo.gl/forms/rJwq5nZV5kZ7ODuQ2)
+   * Design 3 ways to define space with 1, 2 and 3 bodies. You can do this either as a sketch or in code.
+   * Start a mind-map for what you'd like to explore in your final project. Example coming soon.
 
 ## Project Development: Weeks 9, 10, 11
 
