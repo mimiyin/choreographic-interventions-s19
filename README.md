@@ -291,7 +291,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
          * [Kinect2 Examples for Processing](https://drive.google.com/drive/folders/15qNBRQ0W_6jq3gP3EzyUpGK7Nu9WvpUy?usp=sharing)
 
 ### Assignment: Study No. 4 The Mirror Dance
-   * Work on your own. Create a [slit-scan](https://editor.p5js.org/dansakamoto/embed/H1s4fymqQ) dance and perform it 2x. Screen record it. Upload your screen recording to [this folder](https://drive.google.com/drive/folders/1wB8bkjVXp1jtARURPohwUYl3Unq2Q1UT?usp=sharing).
+   * Work on your own. Create a [slit-scan](https://editor.p5js.org/dansakamoto/embed/H1s4fymqQ) dance and perform it 2x. Screen record it. Include both the resulting slit-scan and your actual face/body in the screen recording. Upload your recording to [this folder](https://drive.google.com/drive/folders/1wB8bkjVXp1jtARURPohwUYl3Unq2Q1UT?usp=sharing).
       * How to screen record: [Mac](https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac) | [Windows](https://www.onmsft.com/how-to/how-to-make-a-windows-10-screen-recording-without-installing-any-software)
    * Please bring your piece of clothing next week!
    * Complete [Chapter 3.0-3.3](https://docs.google.com/document/d/1UQBgsK0aKmQgeI_90evKBsHhaOGN-iLdET82-cNUcIk/edit?usp=sharing) of the Workbook   
