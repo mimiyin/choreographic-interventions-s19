@@ -349,6 +349,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    
 ### Assignment: Dynamic Spaces
    * [Design an interactive space.](https://docs.google.com/document/d/1VpfVVueUlGjyoeTmFRgcbd-1WwbsK5uUehwL7ECROqk/edit?usp=sharing) | [See sample.](https://drive.google.com/file/d/1DrW_gIApYh_MsW6u_Ts0X8HV5pXmNMXy/view?usp=sharing)
+      * Extra credit: Prototype it in code.
    * Fill out this survey about who you want to work with by Monday Apr 1: [ITP](https://goo.gl/forms/D9ZJyq3d4DDuAAnJ2) | [Barnard/Columbia](https://goo.gl/forms/rJwq5nZV5kZ7ODuQ2)
    * Brainstorm what you'd like to explore in your final project. [Please see guidelines and example.](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Brainstorming-Guidelines)
 
