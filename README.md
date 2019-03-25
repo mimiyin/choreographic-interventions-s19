@@ -349,8 +349,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    
 ### Assignment: Dynamic Spaces
    * Fill out this survey about who you want to work with by Monday Apr 1: [ITP](https://goo.gl/forms/D9ZJyq3d4DDuAAnJ2) | [Barnard/Columbia](https://goo.gl/forms/rJwq5nZV5kZ7ODuQ2)
-   * Design 3 ways to define space with 1, 2 and 3 bodies. You can do this either as a sketch or in code.
-   * Start a mind-map for what you'd like to explore in your final project. Example coming soon.
+   * Brainstorm what you'd like to explore in your final project. [Please see guidelines and example.](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Brainstorming-Guidelines)
 
 ## Project Development: Weeks 9, 10, 11
 
