@@ -340,8 +340,6 @@ Each topic will be introduced through paper-based drawing exercises and code exa
       * [3 Boundaries](https://editor.p5js.org/move.mimi/sketches/r1oBxkPMV)
       * [Semi-exclusionary Square](https://editor.p5js.org/move.mimi/sketches/r186x1Dz4)
       * [How to Run Interactive Space Examples](https://docs.google.com/document/d/1b8FelamwrUIGWBpiycag3Jxyt6RHaUOjz0JxWzwJ6DU/edit?usp=sharing)
-         * [PositionTracker](https://drive.google.com/open?id=1Bdzk6oizSwnZMgEOnxxHJhxVIpTJsdzr)
-   * Final Project Circle
    * Hello Projection Mapping: [The Set-up Tutorial](https://docs.google.com/document/d/1AfvvrWhMHGnw0MrYqgiqzsV0DenL0p5vWmfQXM3Jp2U/edit?usp=sharing) | [The Code Tutorial](https://docs.google.com/document/d/1LRiMMuZEeP8klj9GwHv8eBclAnLrMqXvh_qrSldWehs/edit?usp=sharing)
    * [Processing Base Examples](https://drive.google.com/drive/folders/1enV2nNJHF_FfjFikO4NKxoox8zy3ITfB?usp=sharing)
    
