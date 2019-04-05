@@ -350,8 +350,10 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 
 ## Project Development: Weeks 9, 10, 11
 
-### Assignment: Playground
-   * Create a space to interact with as the first step towards your final project.
+### Week 9 Assignment
+   * Collect source material this week: Sound, visuals, video, choreography, text, diagrams, drawings, storyboards and stick them in [your folder](https://drive.google.com/open?id=1wMd9Dlcf5ApwnanHIUik5FymBlN-Z_ah).
+   * Prepare material to show in class: 3 choreographic ideas. 1 sketch. (You can make more than that.)
+      * Post [your sketches here](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assignments)
 
 Over the next 4 weeks, in groups of 3-4, create a movement-based interactive work that explores one or more modes of interaction and one or more of parameters of choreography from this course. The work can take the form of an installation or a performance. Installations can be time-based or persistent with no definitive start or end time. The only requirement is that the choreography must be interactive, meaning the performers are making choreographic decisions in real-time. This doesn’t mean there is no element of pre-set choreography, however there must be room in the choreographic structure for individual decision-making. You will have a maximum of 10 minutes to show your work. Each group will consist of 1-2 students from ITP and 1-2 students from Barnard.
 
