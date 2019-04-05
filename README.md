@@ -349,6 +349,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
    * Brainstorm what you'd like to explore in your final project. [Please see guidelines and example.](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Brainstorming-Guidelines)
 
 ## Project Development: Weeks 9, 10, 11
+   * [Schedule Time @Barnard Movement Lab](https://docs.google.com/spreadsheets/d/1l7PqCx14aNX-_X8EiWRcoZp43nwpDeaLIw4fPADHPv0/edit?usp=sharing)
 
 ### Week 9 Assignment
    * Collect source material this week: Sound, visuals, video, choreography, text, diagrams, drawings, storyboards and stick them in [your folder](https://drive.google.com/drive/folders/16UK7YpFvYBepmJH7AlqXUU5NVLXNvXrq?usp=sharing).
