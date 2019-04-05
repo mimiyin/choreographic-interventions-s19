@@ -351,7 +351,7 @@ Each topic will be introduced through paper-based drawing exercises and code exa
 ## Project Development: Weeks 9, 10, 11
 
 ### Week 9 Assignment
-   * Collect source material this week: Sound, visuals, video, choreography, text, diagrams, drawings, storyboards and stick them in [your folder](https://drive.google.com/open?id=1wMd9Dlcf5ApwnanHIUik5FymBlN-Z_ah).
+   * Collect source material this week: Sound, visuals, video, choreography, text, diagrams, drawings, storyboards and stick them in [your folder](https://drive.google.com/drive/folders/16UK7YpFvYBepmJH7AlqXUU5NVLXNvXrq?usp=sharing).
    * Prepare material to show in class: 3 choreographic ideas. 1 sketch. (You can make more than that.)
       * [Sign-up for a timeslot to work and post your sketches here](https://github.com/mimiyin/choreographic-interventions-s19/wiki/Assignments)
 
